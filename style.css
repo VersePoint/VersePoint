@@ -161,7 +161,7 @@ h1 {
 .text-block {
     display: flex;
     flex-direction: column;
-    gap: 3px;
+    gap: 1px;
     justify-content: center;
     flex: 1;
 }
