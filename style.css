@@ -37,27 +37,46 @@ h1 {
 }
 
 /* Button */
-.download-buttons {
-    margin-top: 35px;
+.download-section {
+    margin-top: 50px;
     display: flex;
     justify-content: center;
-    gap: 20px;
+    gap: 30px;
     flex-wrap: wrap;
 }
 
-.button.windows {
-    background: #2563eb;
+.download-card {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 20px 30px;
+    text-decoration: none;
+    border-radius: 16px;
+    background: linear-gradient(145deg, #1e293b, #0f172a);
+    border: 1px solid #334155;
+    transition: all 0.3s ease;
+    min-width: 280px;
+}
+
+.download-card:hover {
+    transform: translateY(-6px);
+    border-color: #facc15;
+}
+
+.platform-icon {
+    font-size: 2rem;
+}
+
+.platform-info h3 {
+    margin: 0;
+    font-size: 1.1rem;
     color: white;
 }
 
-.button.mac {
-    background: #111827;
-    color: white;
-}
-
-.button.windows:hover,
-.button.mac:hover {
-    transform: translateY(-3px);
+.platform-info p {
+    margin: 4px 0 0;
+    font-size: 0.9rem;
+    color: #94a3b8;
 }
 
 /* Sections */
