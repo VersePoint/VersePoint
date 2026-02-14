@@ -162,7 +162,8 @@ h1 {
     display: flex;
     flex-direction: column;
     gap: 3px;
-    text-align: center;
+    justify-content: center;
+    flex: 1;
 }
 
 .title {
@@ -211,7 +212,6 @@ h1 {
     background: rgba(250, 204, 21, 0.20);
     border-color: rgba(250, 204, 21, 0.40);
 }
-
 /* ============================================================
    Sections
    ============================================================ */
