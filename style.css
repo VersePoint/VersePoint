@@ -1,76 +1,97 @@
-<style>
-    body {
-        margin: 0;
-        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-        background-color: #0f172a;
-        color: #ffffff;
-        line-height: 1.6;
-    }
-
-    header {
-        text-align: center;
-        padding: 80px 20px;
-    }
-
-    h1 {
-        font-size: 3rem;
-        margin-bottom: 10px;
-    }
-
-    .tagline {
-        font-size: 1.2rem;
-        color: #cbd5e1;
-        margin-bottom: 30px;
-    }
-
-    .button {
-        display: inline-block;
-        padding: 12px 28px;
-        background: #facc15;
-        color: #0f172a;
-        text-decoration: none;
-        font-weight: bold;
-        border-radius: 6px;
-        transition: 0.3s;
-    }
-
-    .button:hover {
-        opacity: 0.85;
-    }
-
-    section {
-        padding: 60px 20px;
-        max-width: 900px;
-        margin: auto;
-    }
-
-    h2 {
-        font-size: 2rem;
-        margin-bottom: 20px;
-    }
-
-    .features {
-        display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-        gap: 20px;
-    }
-
-    .card {
-        background: #1e293b;
-        padding: 20px;
-        border-radius: 8px;
-    }
-
-    footer {
-        text-align: center;
-        padding: 40px 20px;
-        font-size: 0.9rem;
-        color: #94a3b8;
-    }
-
-    .logo {
-    width: 160px;
-    max-width: 80%;
-    margin-bottom: 20px;
+/* Base Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
-</style>
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background: #0f172a;
+    color: #ffffff;
+    line-height: 1.6;
+}
+
+/* Hero Section */
+.hero {
+    text-align: center;
+    padding: 120px 20px;
+    background: radial-gradient(circle at center, #1e293b 0%, #0f172a 70%);
+}
+
+.logo {
+    width: 180px;
+    max-width: 80%;
+    margin-bottom: 25px;
+}
+
+h1 {
+    font-size: 3rem;
+    font-weight: 600;
+}
+
+.tagline {
+    font-size: 1.3rem;
+    color: #cbd5e1;
+    margin-top: 10px;
+}
+
+/* Button */
+.button {
+    display: inline-block;
+    margin-top: 35px;
+    padding: 14px 34px;
+    background: #facc15;
+    color: #0f172a;
+    text-decoration: none;
+    font-weight: 600;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+}
+
+.button:hover {
+    transform: translateY(-3px);
+}
+
+/* Sections */
+.section {
+    padding: 80px 20px;
+    max-width: 1000px;
+    margin: auto;
+}
+
+.section h2 {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 40px;
+}
+
+/* Features Grid */
+.features {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 30px;
+}
+
+.card {
+    background: #1e293b;
+    padding: 30px;
+    border-radius: 14px;
+    transition: transform 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-6px);
+}
+
+.card h3 {
+    margin-bottom: 15px;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 60px 20px;
+    color: #94a3b8;
+    font-size: 0.9rem;
+}
