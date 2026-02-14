@@ -36,48 +36,58 @@ h1 {
     margin-top: 10px;
 }
 
-/* Button */
+/* Remove default link styling */
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+/* Download Section Layout */
 .download-section {
-    margin-top: 50px;
+    margin-top: 60px;
     display: flex;
     justify-content: center;
     gap: 30px;
     flex-wrap: wrap;
 }
 
+/* Card Design */
 .download-card {
     display: flex;
     align-items: center;
     gap: 20px;
-    padding: 20px 30px;
-    text-decoration: none;
-    border-radius: 16px;
-    background: linear-gradient(145deg, #1e293b, #0f172a);
-    border: 1px solid #334155;
-    transition: all 0.3s ease;
-    min-width: 280px;
+    padding: 22px 40px;
+    border-radius: 18px;
+    background: rgba(255, 255, 255, 0.05);
+    backdrop-filter: blur(12px);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    transition: all 0.35s ease;
+    min-width: 240px;
 }
 
 .download-card:hover {
-    transform: translateY(-6px);
+    transform: translateY(-8px);
     border-color: #facc15;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
 }
 
-.platform-icon {
+/* Icon */
+.icon {
     font-size: 2rem;
 }
 
-.platform-info h3 {
-    margin: 0;
-    font-size: 1.1rem;
-    color: white;
+/* Text */
+.title {
+    font-size: 1.2rem;
+    font-weight: 600;
 }
 
-.platform-info p {
-    margin: 4px 0 0;
+.meta {
     font-size: 0.9rem;
     color: #94a3b8;
+    margin-top: 4px;
 }
+
 
 /* Sections */
 .section {
