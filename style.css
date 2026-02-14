@@ -101,7 +101,7 @@ h1 {
         rgba(250, 204, 21, 0.14) 50%,
         transparent 60%
     );
-    background-size: 220% 100%;
+    background-size: 200% 100%;
     background-position: 200% 0;
     border-radius: inherit;
     transition: background-position 0.55s ease;
