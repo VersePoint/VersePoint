@@ -64,9 +64,9 @@ h1 {
     display: flex;
     align-items: center;
     gap: 18px;
-    padding: 18px 32px;
+    padding: 32px 32px;
     border-radius: 16px;
-    min-width: 100px;
+    min-width: 260;
     cursor: pointer;
     overflow: hidden;
 
