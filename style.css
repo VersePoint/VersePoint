@@ -24,7 +24,7 @@ a {
    ============================================================ */
 .hero {
     text-align: center;
-    padding: 120px 20px;
+    padding: 120px 50px;
     background: radial-gradient(circle at center, #1e293b 0%, #0f172a 70%);
 }
 
