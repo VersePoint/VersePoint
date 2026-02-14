@@ -64,9 +64,9 @@ h1 {
     display: flex;
     align-items: center;
     gap: 18px;
-    padding: 18px 32px;
+    padding: 18px 18px;
     border-radius: 16px;
-    min-width: 260px;
+    min-width: 100px;
     cursor: pointer;
     overflow: hidden;
 
@@ -236,7 +236,7 @@ h1 {
 
 .card {
     background: #1e293b;
-    padding: 18px;
+    padding: 30px;
     border-radius: 14px;
     transition: transform 0.3s ease;
 }
