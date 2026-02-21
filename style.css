@@ -236,3 +236,8 @@ footer {
     color: #94a3b8;
     font-size: 0.9rem;
 }
+
+footer a {
+    text-decoration: underline;
+    text-underline-offset: 2px;
+}
