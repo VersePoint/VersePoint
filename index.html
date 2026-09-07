@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>VersePoint — Scripture in Focus</title>
+<link rel="icon" type="image/png" href="versepoint-logo.png">
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header class="hero">
+    <img src="versepoint-logo.png" alt="VersePoint Logo" class="logo">
+    <h1>VersePoint</h1>
+    <p class="tagline">Download VersePoint v1.1.0 Beta for Windows and macOS. Preview the latest Scripture, Lyrics, Program, and Web Out features while we continue testing and improving stability.</p>
+<div class="download-section">
+
+    <a href="https://github.com/VersePoint/VersePoint/releases/download/v1.1.0/VersePoint-Setup-Windows-1.1.0.zip" class="download-card" id="windows-download">
+        <div class="text-block">
+            <div class="title">Windows</div>
+            <div class="meta" id="windows-meta">v1.1.0 Beta • 64-bit</div>
+        </div>
+        <div class="badge">Beta</div>
+    </a>
+
+    <a href="https://github.com/VersePoint/VersePoint/releases/download/v1.1.0/VersePoint-macOS-universal-1.1.0.zip" class="download-card" id="macos-download">
+        <div class="text-block">
+            <div class="title">macOS</div>
+            <div class="meta" id="macos-meta">v1.1.0 Beta • Universal</div>
+        </div>
+        <div class="badge">Beta</div>
+    </a>
+
+</div>
+
+</header>
+
+<footer>
+    © 2026 VersePoint. Built to serve the Church. Released under the <a href="https://github.com/VersePoint/VersePoint/blob/main/LICENSE">VersePoint Proprietary License v1.1</a>.
+</footer>
+
+<script>
+const releaseApiUrl = "https://api.github.com/repos/VersePoint/VersePoint/releases/tags/v1.1.0";
+const windowsDownloadEl = document.getElementById("windows-download");
+const macosDownloadEl = document.getElementById("macos-download");
+const windowsMetaEl = document.getElementById("windows-meta");
+const macosMetaEl = document.getElementById("macos-meta");
+
+function findAsset(assets, patterns) {
+    return patterns
+        .map((pattern) => assets.find((asset) => pattern.test(asset.name)))
+        .find(Boolean);
+}
+
+function updateDownloadLinks(release, assets) {
+    const windowsAsset = findAsset(assets, [
+        /^VersePoint-Setup-Windows-.*\.zip$/i,
+        /^VersePoint-Setup-Windows-x64\.exe$/i,
+        /^VersePoint-Setup-.*-x64\.exe$/i,
+        /^VersePoint-Setup-.*\.zip$/i
+    ]);
+    const macosAsset = findAsset(assets, [
+        /^VersePoint-macOS-universal-.*\.zip$/i,
+        /^VersePoint-macOS\.dmg$/i,
+        /^VersePoint-.*mac.*\.dmg$/i,
+        /^VersePoint-.*mac.*\.zip$/i
+    ]);
+
+    if (windowsAsset?.browser_download_url) {
+        windowsDownloadEl.href = windowsAsset.browser_download_url;
+        windowsMetaEl.textContent = `${release.tag_name || "v1.1.0"} Beta • ${windowsAsset.name.endsWith(".zip") ? "ZIP" : "64-bit"}`;
+    }
+    if (macosAsset?.browser_download_url) {
+        macosDownloadEl.href = macosAsset.browser_download_url;
+        macosMetaEl.textContent = `${release.tag_name || "v1.1.0"} Beta • ${macosAsset.name.endsWith(".dmg") ? "DMG" : "Universal"}`;
+    }
+}
+
+async function loadReleaseLinks() {
+    try {
+        const response = await fetch(releaseApiUrl, {
+            headers: { Accept: "application/vnd.github+json" },
+            cache: "no-store"
+        });
+
+        if (!response.ok) {
+            throw new Error(`GitHub API returned ${response.status}`);
+        }
+
+        const release = await response.json();
+        const assets = Array.isArray(release.assets) ? release.assets : [];
+        updateDownloadLinks(release, assets);
+    } catch (error) {
+        console.error("Failed to load release download links:", error);
+    }
+}
+
+loadReleaseLinks();
+</script>
+
+</body>
+</html>
