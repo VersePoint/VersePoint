@@ -131,8 +131,8 @@ a:focus-visible, summary:focus-visible, iframe:focus-visible { outline: 2px soli
   .vp-scene-links { gap: 18px; margin-top: 16px; }
   .vp-scene-links a { font-size: 11px; }
   .vp-showcase { width: calc(100% - 24px); margin-top: 0; }
-  .vp-showcase-window { aspect-ratio: auto; height: 450px; }
-  .vp-showcase-poster { object-position: left top; }
+  .vp-showcase-window { aspect-ratio: 1.659; }
+  .vp-showcase-poster { object-fit: contain; }
   .vp-features { padding-top: 48px; }
   .vp-feature-row, .vp-feature-row-reverse { grid-template-columns: 1fr; gap: 22px; margin-bottom: 48px; }
   .vp-feature-row:last-child { margin-bottom: 36px; }

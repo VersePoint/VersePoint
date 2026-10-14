@@ -79,7 +79,7 @@
   }
 
   function minimumScale() {
-    return fitScale() * (camera.cinematic && !reducedMotion.matches ? .94 : 1);
+    return fitScale() * (camera.cinematic && !reducedMotion.matches && !compactViewport() ? .94 : 1);
   }
 
   function canPan() {
@@ -144,16 +144,7 @@
   }
 
   function restingPose() {
-    if (!compactViewport()) return overviewPose();
-    const rect = usefulFocusRegion(null, manifest?.states[currentState]);
-    const scale = clamp(cameraViewport.clientHeight / contentHeight * .94, .7, .85);
-    const pose = {
-      scale,
-      x: cameraViewport.clientWidth / 2 - (rect[0] + rect[2] / 2) * contentWidth * scale,
-      y: cameraViewport.clientHeight / 2 - (rect[1] + rect[3] / 2) * contentHeight * scale,
-      rx: 0, ry: 0, rz: 0,
-    };
-    return { ...pose, ...boundedPan(pose.x, pose.y, scale) };
+    return overviewPose();
   }
 
   function currentPose() {
@@ -350,15 +341,21 @@
   function focusCameraOnAction(hotspot, state, { kind = 'focus', force = false } = {}) {
     if (!isVisible() || (!camera.cinematic && !force)) return;
     clearPullback();
+    // A phone shows all three columns. Automatic framing must not crop away
+    // the navigation or presentation tools after arrival or a scene selection.
+    if (compactViewport()) {
+      animatePose(overviewPose(), { duration: 220, phase: 'overview', kind });
+      focusAnchor = null;
+      return;
+    }
     if (currentState === 'tools-collapsed') {
       animatePose(overviewPose(), { duration: 550, tilt: true, phase: 'overview' });
       return;
     }
     const rect = usefulFocusRegion(hotspot, state);
     const fitted = Math.min(cameraViewport.clientWidth * .96 / (contentWidth * rect[2]), cameraViewport.clientHeight * .96 / (contentHeight * rect[3]));
-    // Native controls cannot reflow on phones. Frame a readable portion and let
-    // deliberate pan reveal the rest, instead of shrinking the whole desktop UI.
-    const scale = compactViewport() ? clamp(fitted, 1.1, 1.6) : clamp(fitted, fitScale() * 1.35, fitScale() * 1.7);
+    // Larger screens can frame a panel while retaining the cinematic navigation.
+    const scale = clamp(fitted, fitScale() * 1.35, fitScale() * 1.7);
     const view = visibleCameraBounds();
     const anchorX = (view.left + view.right) / 2 - view.content.left;
     const anchorY = (view.top + view.bottom) / 2 - view.content.top;
@@ -422,7 +419,11 @@
     contentHeight = nextHeight;
     stage.style.width = `${contentWidth}px`;
     stage.style.height = `${contentHeight}px`;
-    if (wasResting) {
+    if (compactViewport()) {
+      Object.assign(camera, overviewPose());
+      cameraPhase = 'overview';
+      focusAnchor = null;
+    } else if (wasResting) {
       Object.assign(camera, compactViewport() ? restingPose() : overviewPose());
       cameraPhase = compactViewport() ? 'resting' : 'overview';
       focusAnchor = { scale: camera.scale, x: camera.x, y: camera.y };
@@ -456,7 +457,7 @@
     clearPullback();
     stopCameraMotion({ flatten: true });
     paintCamera();
-    const touchPan = event.pointerType === 'touch' && !event.target.closest('.hotspot');
+    const touchPan = event.pointerType === 'touch' && !compactViewport() && !event.target.closest('.hotspot');
     if ((!touchPan && (!canPan() || !spaceHeld)) || event.button !== 0) return;
     if (camera.cinematic) beginManualCamera();
     drag = { id: event.pointerId, x: event.clientX, y: event.clientY, panX: camera.x, panY: camera.y, touch: touchPan, moved: false };
@@ -534,10 +535,6 @@
     const button = event.target.closest('.hotspot');
     if (!button || !button.matches(':focus-visible')) return;
     beginManualCamera();
-    if (compactViewport() && camera.scale < 1.1) {
-      camera.scale = 1.1;
-      paintCamera();
-    }
     const bounds = button.getBoundingClientRect();
     const view = visibleCameraBounds();
     if (bounds.left >= view.left + 8 && bounds.right <= view.right - 8 && bounds.top >= view.top + 8 && bounds.bottom <= view.bottom - 8) return;
@@ -879,11 +876,11 @@
     if (restoreContext?.cameraPose) {
       const saved = restoreContext.cameraPose;
       const scale = clamp(saved.scale, minimumScale(), 2.2);
-      const pose = { scale, x: cameraViewport.clientWidth / 2 - saved.centerX * contentWidth * scale, y: cameraViewport.clientHeight / 2 - saved.centerY * contentHeight * scale };
+      const pose = compactViewport() ? overviewPose() : { scale, x: cameraViewport.clientWidth / 2 - saved.centerX * contentWidth * scale, y: cameraViewport.clientHeight / 2 - saved.centerY * contentHeight * scale };
       focusAnchor = { ...pose };
-      animatePose(pose, { duration: camera.cinematic ? 550 : 0, tilt: camera.cinematic, phase: pose.scale > minimumScale() + .02 ? 'focused' : 'overview', onComplete: () => schedulePullback() });
+      animatePose(pose, { duration: camera.cinematic ? 550 : 0, tilt: camera.cinematic && !compactViewport(), phase: pose.scale > minimumScale() + .02 ? 'focused' : 'overview', onComplete: () => schedulePullback() });
     } else if (camera.cinematic && returnToOverview) {
-      animatePose(overviewPose(), { duration: 600, tilt: true, phase: 'overview' });
+      animatePose(overviewPose(), { duration: 600, tilt: !compactViewport(), phase: 'overview' });
     } else if (camera.cinematic && sourceHotspot && !keyboardInitiated) {
       focusCameraOnAction(sourceHotspot, state);
     }
