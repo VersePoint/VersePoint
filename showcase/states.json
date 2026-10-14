@@ -1,0 +1,7835 @@
+{
+  "initial": "scripture-1",
+  "capture": {
+    "originalSize": [
+      2880,
+      1800
+    ],
+    "cropTop": 64,
+    "contentSize": [
+      2880,
+      1736
+    ]
+  },
+  "states": {
+    "scripture-1": {
+      "image": "assets/scripture-1.webp",
+      "title": "Scripture \u00b7 Psalms 23:1",
+      "alt": "Actual VersePoint Scripture workspace with KJV Psalms chapter 23, verse 1 selected, presentation preview, and Scripture navigation.",
+      "hotspots": [
+        {
+          "label": "Explore Scripture",
+          "rect": [
+            0.008333,
+            0.93894,
+            0.050694,
+            0.049539
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Explore Songs",
+          "rect": [
+            0.0625,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "lyrics-1"
+        },
+        {
+          "label": "Explore Programs",
+          "rect": [
+            0.118056,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "program"
+        },
+        {
+          "label": "Open Motion Studio",
+          "rect": [
+            0.875,
+            0.139401,
+            0.114583,
+            0.041475
+          ],
+          "target": "motion-dots"
+        },
+        {
+          "label": "Select Psalms 23:1",
+          "rect": [
+            0.304861,
+            0.064516,
+            0.423611,
+            0.0553
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Clear verse 1",
+          "rect": [
+            0.281944,
+            0.077189,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-1-cleared"
+        },
+        {
+          "label": "Select Psalms 23:2",
+          "rect": [
+            0.304861,
+            0.131336,
+            0.423611,
+            0.0553
+          ],
+          "target": "scripture-2"
+        },
+        {
+          "label": "Show verse 2",
+          "rect": [
+            0.281944,
+            0.144009,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-2"
+        },
+        {
+          "label": "Select Psalms 23:3",
+          "rect": [
+            0.304861,
+            0.198157,
+            0.423611,
+            0.0553
+          ],
+          "target": "scripture-3"
+        },
+        {
+          "label": "Show verse 3",
+          "rect": [
+            0.281944,
+            0.210829,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-3"
+        },
+        {
+          "label": "Select Psalms 23:4",
+          "rect": [
+            0.304861,
+            0.264977,
+            0.423611,
+            0.062212
+          ],
+          "target": "scripture-4"
+        },
+        {
+          "label": "Show verse 4",
+          "rect": [
+            0.281944,
+            0.27765,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-4"
+        },
+        {
+          "label": "Select Psalms 23:5",
+          "rect": [
+            0.304861,
+            0.337558,
+            0.423611,
+            0.062212
+          ],
+          "target": "scripture-5"
+        },
+        {
+          "label": "Show verse 5",
+          "rect": [
+            0.281944,
+            0.35023,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-5"
+        },
+        {
+          "label": "Select Psalms 23:6",
+          "rect": [
+            0.304861,
+            0.410138,
+            0.423611,
+            0.062212
+          ],
+          "target": "scripture-6"
+        },
+        {
+          "label": "Show verse 6",
+          "rect": [
+            0.281944,
+            0.422811,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-6"
+        },
+        {
+          "label": "Clear Text",
+          "rect": [
+            0.010417,
+            0.309908,
+            0.067708,
+            0.037442
+          ],
+          "target": "scripture-1-cleared"
+        },
+        {
+          "label": "Collapse presentation tools",
+          "rect": [
+            0.967014,
+            0.013825,
+            0.024306,
+            0.040323
+          ],
+          "target": "tools-collapsed"
+        },
+        {
+          "label": "Open Style",
+          "rect": [
+            0.836458,
+            0.051267,
+            0.077778,
+            0.038018
+          ],
+          "target": "style-presets"
+        },
+        {
+          "label": "Open Settings",
+          "rect": [
+            0.967014,
+            0.939516,
+            0.024306,
+            0.047811
+          ],
+          "target": "settings-output"
+        }
+      ],
+      "focusRect": [
+        0.2,
+        0.02,
+        0.54,
+        0.51
+      ]
+    },
+    "scripture-1-cleared": {
+      "image": "assets/scripture-1-cleared.webp",
+      "title": "Scripture \u00b7 Psalms 23:1 \u00b7 Text cleared",
+      "alt": "Actual VersePoint Scripture workspace with KJV Psalms chapter 23, verse 1 selected, presentation preview, and Scripture navigation. The text status is cleared.",
+      "hotspots": [
+        {
+          "label": "Explore Scripture",
+          "rect": [
+            0.008333,
+            0.93894,
+            0.050694,
+            0.049539
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Explore Songs",
+          "rect": [
+            0.0625,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "lyrics-1"
+        },
+        {
+          "label": "Explore Programs",
+          "rect": [
+            0.118056,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "program"
+        },
+        {
+          "label": "Open Motion Studio",
+          "rect": [
+            0.875,
+            0.139401,
+            0.114583,
+            0.041475
+          ],
+          "target": "motion-dots"
+        },
+        {
+          "label": "Select Psalms 23:1",
+          "rect": [
+            0.304861,
+            0.064516,
+            0.423611,
+            0.0553
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Show verse 1",
+          "rect": [
+            0.281944,
+            0.077189,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Select Psalms 23:2",
+          "rect": [
+            0.304861,
+            0.131336,
+            0.423611,
+            0.0553
+          ],
+          "target": "scripture-2"
+        },
+        {
+          "label": "Show verse 2",
+          "rect": [
+            0.281944,
+            0.144009,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-2"
+        },
+        {
+          "label": "Select Psalms 23:3",
+          "rect": [
+            0.304861,
+            0.198157,
+            0.423611,
+            0.0553
+          ],
+          "target": "scripture-3"
+        },
+        {
+          "label": "Show verse 3",
+          "rect": [
+            0.281944,
+            0.210829,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-3"
+        },
+        {
+          "label": "Select Psalms 23:4",
+          "rect": [
+            0.304861,
+            0.264977,
+            0.423611,
+            0.062212
+          ],
+          "target": "scripture-4"
+        },
+        {
+          "label": "Show verse 4",
+          "rect": [
+            0.281944,
+            0.27765,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-4"
+        },
+        {
+          "label": "Select Psalms 23:5",
+          "rect": [
+            0.304861,
+            0.337558,
+            0.423611,
+            0.062212
+          ],
+          "target": "scripture-5"
+        },
+        {
+          "label": "Show verse 5",
+          "rect": [
+            0.281944,
+            0.35023,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-5"
+        },
+        {
+          "label": "Select Psalms 23:6",
+          "rect": [
+            0.304861,
+            0.410138,
+            0.423611,
+            0.062212
+          ],
+          "target": "scripture-6"
+        },
+        {
+          "label": "Show verse 6",
+          "rect": [
+            0.281944,
+            0.422811,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-6"
+        },
+        {
+          "label": "Show Text",
+          "rect": [
+            0.010417,
+            0.309908,
+            0.067708,
+            0.037442
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Collapse presentation tools",
+          "rect": [
+            0.967014,
+            0.013825,
+            0.024306,
+            0.040323
+          ],
+          "target": "tools-collapsed"
+        },
+        {
+          "label": "Open Style",
+          "rect": [
+            0.836458,
+            0.051267,
+            0.077778,
+            0.038018
+          ],
+          "target": "style-presets"
+        },
+        {
+          "label": "Open Settings",
+          "rect": [
+            0.967014,
+            0.939516,
+            0.024306,
+            0.047811
+          ],
+          "target": "settings-output"
+        }
+      ],
+      "focusRect": [
+        0.2,
+        0.02,
+        0.54,
+        0.51
+      ]
+    },
+    "scripture-2": {
+      "image": "assets/scripture-2.webp",
+      "title": "Scripture \u00b7 Psalms 23:2",
+      "alt": "Actual VersePoint Scripture workspace with KJV Psalms chapter 23, verse 2 selected, presentation preview, and Scripture navigation.",
+      "hotspots": [
+        {
+          "label": "Explore Scripture",
+          "rect": [
+            0.008333,
+            0.93894,
+            0.050694,
+            0.049539
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Explore Songs",
+          "rect": [
+            0.0625,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "lyrics-1"
+        },
+        {
+          "label": "Explore Programs",
+          "rect": [
+            0.118056,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "program"
+        },
+        {
+          "label": "Open Motion Studio",
+          "rect": [
+            0.875,
+            0.139401,
+            0.114583,
+            0.041475
+          ],
+          "target": "motion-dots"
+        },
+        {
+          "label": "Select Psalms 23:1",
+          "rect": [
+            0.304861,
+            0.064516,
+            0.423611,
+            0.0553
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Show verse 1",
+          "rect": [
+            0.281944,
+            0.077189,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Select Psalms 23:2",
+          "rect": [
+            0.304861,
+            0.131336,
+            0.423611,
+            0.0553
+          ],
+          "target": "scripture-2"
+        },
+        {
+          "label": "Clear verse 2",
+          "rect": [
+            0.281944,
+            0.144009,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-2-cleared"
+        },
+        {
+          "label": "Select Psalms 23:3",
+          "rect": [
+            0.304861,
+            0.198157,
+            0.423611,
+            0.0553
+          ],
+          "target": "scripture-3"
+        },
+        {
+          "label": "Show verse 3",
+          "rect": [
+            0.281944,
+            0.210829,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-3"
+        },
+        {
+          "label": "Select Psalms 23:4",
+          "rect": [
+            0.304861,
+            0.264977,
+            0.423611,
+            0.062212
+          ],
+          "target": "scripture-4"
+        },
+        {
+          "label": "Show verse 4",
+          "rect": [
+            0.281944,
+            0.27765,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-4"
+        },
+        {
+          "label": "Select Psalms 23:5",
+          "rect": [
+            0.304861,
+            0.337558,
+            0.423611,
+            0.062212
+          ],
+          "target": "scripture-5"
+        },
+        {
+          "label": "Show verse 5",
+          "rect": [
+            0.281944,
+            0.35023,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-5"
+        },
+        {
+          "label": "Select Psalms 23:6",
+          "rect": [
+            0.304861,
+            0.410138,
+            0.423611,
+            0.062212
+          ],
+          "target": "scripture-6"
+        },
+        {
+          "label": "Show verse 6",
+          "rect": [
+            0.281944,
+            0.422811,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-6"
+        },
+        {
+          "label": "Clear Text",
+          "rect": [
+            0.010417,
+            0.309908,
+            0.067708,
+            0.037442
+          ],
+          "target": "scripture-2-cleared"
+        },
+        {
+          "label": "Collapse presentation tools",
+          "rect": [
+            0.967014,
+            0.013825,
+            0.024306,
+            0.040323
+          ],
+          "target": "tools-collapsed"
+        },
+        {
+          "label": "Open Style",
+          "rect": [
+            0.836458,
+            0.051267,
+            0.077778,
+            0.038018
+          ],
+          "target": "style-presets"
+        },
+        {
+          "label": "Open Settings",
+          "rect": [
+            0.967014,
+            0.939516,
+            0.024306,
+            0.047811
+          ],
+          "target": "settings-output"
+        }
+      ],
+      "focusRect": [
+        0.2,
+        0.02,
+        0.54,
+        0.51
+      ]
+    },
+    "scripture-2-cleared": {
+      "image": "assets/scripture-2-cleared.webp",
+      "title": "Scripture \u00b7 Psalms 23:2 \u00b7 Text cleared",
+      "alt": "Actual VersePoint Scripture workspace with KJV Psalms chapter 23, verse 2 selected, presentation preview, and Scripture navigation. The text status is cleared.",
+      "hotspots": [
+        {
+          "label": "Explore Scripture",
+          "rect": [
+            0.008333,
+            0.93894,
+            0.050694,
+            0.049539
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Explore Songs",
+          "rect": [
+            0.0625,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "lyrics-1"
+        },
+        {
+          "label": "Explore Programs",
+          "rect": [
+            0.118056,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "program"
+        },
+        {
+          "label": "Open Motion Studio",
+          "rect": [
+            0.875,
+            0.139401,
+            0.114583,
+            0.041475
+          ],
+          "target": "motion-dots"
+        },
+        {
+          "label": "Select Psalms 23:1",
+          "rect": [
+            0.304861,
+            0.064516,
+            0.423611,
+            0.0553
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Show verse 1",
+          "rect": [
+            0.281944,
+            0.077189,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Select Psalms 23:2",
+          "rect": [
+            0.304861,
+            0.131336,
+            0.423611,
+            0.0553
+          ],
+          "target": "scripture-2"
+        },
+        {
+          "label": "Show verse 2",
+          "rect": [
+            0.281944,
+            0.144009,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-2"
+        },
+        {
+          "label": "Select Psalms 23:3",
+          "rect": [
+            0.304861,
+            0.198157,
+            0.423611,
+            0.0553
+          ],
+          "target": "scripture-3"
+        },
+        {
+          "label": "Show verse 3",
+          "rect": [
+            0.281944,
+            0.210829,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-3"
+        },
+        {
+          "label": "Select Psalms 23:4",
+          "rect": [
+            0.304861,
+            0.264977,
+            0.423611,
+            0.062212
+          ],
+          "target": "scripture-4"
+        },
+        {
+          "label": "Show verse 4",
+          "rect": [
+            0.281944,
+            0.27765,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-4"
+        },
+        {
+          "label": "Select Psalms 23:5",
+          "rect": [
+            0.304861,
+            0.337558,
+            0.423611,
+            0.062212
+          ],
+          "target": "scripture-5"
+        },
+        {
+          "label": "Show verse 5",
+          "rect": [
+            0.281944,
+            0.35023,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-5"
+        },
+        {
+          "label": "Select Psalms 23:6",
+          "rect": [
+            0.304861,
+            0.410138,
+            0.423611,
+            0.062212
+          ],
+          "target": "scripture-6"
+        },
+        {
+          "label": "Show verse 6",
+          "rect": [
+            0.281944,
+            0.422811,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-6"
+        },
+        {
+          "label": "Show Text",
+          "rect": [
+            0.010417,
+            0.309908,
+            0.067708,
+            0.037442
+          ],
+          "target": "scripture-2"
+        },
+        {
+          "label": "Collapse presentation tools",
+          "rect": [
+            0.967014,
+            0.013825,
+            0.024306,
+            0.040323
+          ],
+          "target": "tools-collapsed"
+        },
+        {
+          "label": "Open Style",
+          "rect": [
+            0.836458,
+            0.051267,
+            0.077778,
+            0.038018
+          ],
+          "target": "style-presets"
+        },
+        {
+          "label": "Open Settings",
+          "rect": [
+            0.967014,
+            0.939516,
+            0.024306,
+            0.047811
+          ],
+          "target": "settings-output"
+        }
+      ],
+      "focusRect": [
+        0.2,
+        0.02,
+        0.54,
+        0.51
+      ]
+    },
+    "scripture-3": {
+      "image": "assets/scripture-3.webp",
+      "title": "Scripture \u00b7 Psalms 23:3",
+      "alt": "Actual VersePoint Scripture workspace with KJV Psalms chapter 23, verse 3 selected, presentation preview, and Scripture navigation.",
+      "hotspots": [
+        {
+          "label": "Explore Scripture",
+          "rect": [
+            0.008333,
+            0.93894,
+            0.050694,
+            0.049539
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Explore Songs",
+          "rect": [
+            0.0625,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "lyrics-1"
+        },
+        {
+          "label": "Explore Programs",
+          "rect": [
+            0.118056,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "program"
+        },
+        {
+          "label": "Open Motion Studio",
+          "rect": [
+            0.875,
+            0.139401,
+            0.114583,
+            0.041475
+          ],
+          "target": "motion-dots"
+        },
+        {
+          "label": "Select Psalms 23:1",
+          "rect": [
+            0.304861,
+            0.064516,
+            0.423611,
+            0.0553
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Show verse 1",
+          "rect": [
+            0.281944,
+            0.077189,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Select Psalms 23:2",
+          "rect": [
+            0.304861,
+            0.131336,
+            0.423611,
+            0.0553
+          ],
+          "target": "scripture-2"
+        },
+        {
+          "label": "Show verse 2",
+          "rect": [
+            0.281944,
+            0.144009,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-2"
+        },
+        {
+          "label": "Select Psalms 23:3",
+          "rect": [
+            0.304861,
+            0.198157,
+            0.423611,
+            0.0553
+          ],
+          "target": "scripture-3"
+        },
+        {
+          "label": "Clear verse 3",
+          "rect": [
+            0.281944,
+            0.210829,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-3-cleared"
+        },
+        {
+          "label": "Select Psalms 23:4",
+          "rect": [
+            0.304861,
+            0.264977,
+            0.423611,
+            0.062212
+          ],
+          "target": "scripture-4"
+        },
+        {
+          "label": "Show verse 4",
+          "rect": [
+            0.281944,
+            0.27765,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-4"
+        },
+        {
+          "label": "Select Psalms 23:5",
+          "rect": [
+            0.304861,
+            0.337558,
+            0.423611,
+            0.062212
+          ],
+          "target": "scripture-5"
+        },
+        {
+          "label": "Show verse 5",
+          "rect": [
+            0.281944,
+            0.35023,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-5"
+        },
+        {
+          "label": "Select Psalms 23:6",
+          "rect": [
+            0.304861,
+            0.410138,
+            0.423611,
+            0.062212
+          ],
+          "target": "scripture-6"
+        },
+        {
+          "label": "Show verse 6",
+          "rect": [
+            0.281944,
+            0.422811,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-6"
+        },
+        {
+          "label": "Clear Text",
+          "rect": [
+            0.010417,
+            0.309908,
+            0.067708,
+            0.037442
+          ],
+          "target": "scripture-3-cleared"
+        },
+        {
+          "label": "Collapse presentation tools",
+          "rect": [
+            0.967014,
+            0.013825,
+            0.024306,
+            0.040323
+          ],
+          "target": "tools-collapsed"
+        },
+        {
+          "label": "Open Style",
+          "rect": [
+            0.836458,
+            0.051267,
+            0.077778,
+            0.038018
+          ],
+          "target": "style-presets"
+        },
+        {
+          "label": "Open Settings",
+          "rect": [
+            0.967014,
+            0.939516,
+            0.024306,
+            0.047811
+          ],
+          "target": "settings-output"
+        }
+      ],
+      "focusRect": [
+        0.2,
+        0.02,
+        0.54,
+        0.51
+      ]
+    },
+    "scripture-3-cleared": {
+      "image": "assets/scripture-3-cleared.webp",
+      "title": "Scripture \u00b7 Psalms 23:3 \u00b7 Text cleared",
+      "alt": "Actual VersePoint Scripture workspace with KJV Psalms chapter 23, verse 3 selected, presentation preview, and Scripture navigation. The text status is cleared.",
+      "hotspots": [
+        {
+          "label": "Explore Scripture",
+          "rect": [
+            0.008333,
+            0.93894,
+            0.050694,
+            0.049539
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Explore Songs",
+          "rect": [
+            0.0625,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "lyrics-1"
+        },
+        {
+          "label": "Explore Programs",
+          "rect": [
+            0.118056,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "program"
+        },
+        {
+          "label": "Open Motion Studio",
+          "rect": [
+            0.875,
+            0.139401,
+            0.114583,
+            0.041475
+          ],
+          "target": "motion-dots"
+        },
+        {
+          "label": "Select Psalms 23:1",
+          "rect": [
+            0.304861,
+            0.064516,
+            0.423611,
+            0.0553
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Show verse 1",
+          "rect": [
+            0.281944,
+            0.077189,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Select Psalms 23:2",
+          "rect": [
+            0.304861,
+            0.131336,
+            0.423611,
+            0.0553
+          ],
+          "target": "scripture-2"
+        },
+        {
+          "label": "Show verse 2",
+          "rect": [
+            0.281944,
+            0.144009,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-2"
+        },
+        {
+          "label": "Select Psalms 23:3",
+          "rect": [
+            0.304861,
+            0.198157,
+            0.423611,
+            0.0553
+          ],
+          "target": "scripture-3"
+        },
+        {
+          "label": "Show verse 3",
+          "rect": [
+            0.281944,
+            0.210829,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-3"
+        },
+        {
+          "label": "Select Psalms 23:4",
+          "rect": [
+            0.304861,
+            0.264977,
+            0.423611,
+            0.062212
+          ],
+          "target": "scripture-4"
+        },
+        {
+          "label": "Show verse 4",
+          "rect": [
+            0.281944,
+            0.27765,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-4"
+        },
+        {
+          "label": "Select Psalms 23:5",
+          "rect": [
+            0.304861,
+            0.337558,
+            0.423611,
+            0.062212
+          ],
+          "target": "scripture-5"
+        },
+        {
+          "label": "Show verse 5",
+          "rect": [
+            0.281944,
+            0.35023,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-5"
+        },
+        {
+          "label": "Select Psalms 23:6",
+          "rect": [
+            0.304861,
+            0.410138,
+            0.423611,
+            0.062212
+          ],
+          "target": "scripture-6"
+        },
+        {
+          "label": "Show verse 6",
+          "rect": [
+            0.281944,
+            0.422811,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-6"
+        },
+        {
+          "label": "Show Text",
+          "rect": [
+            0.010417,
+            0.309908,
+            0.067708,
+            0.037442
+          ],
+          "target": "scripture-3"
+        },
+        {
+          "label": "Collapse presentation tools",
+          "rect": [
+            0.967014,
+            0.013825,
+            0.024306,
+            0.040323
+          ],
+          "target": "tools-collapsed"
+        },
+        {
+          "label": "Open Style",
+          "rect": [
+            0.836458,
+            0.051267,
+            0.077778,
+            0.038018
+          ],
+          "target": "style-presets"
+        },
+        {
+          "label": "Open Settings",
+          "rect": [
+            0.967014,
+            0.939516,
+            0.024306,
+            0.047811
+          ],
+          "target": "settings-output"
+        }
+      ],
+      "focusRect": [
+        0.2,
+        0.02,
+        0.54,
+        0.51
+      ]
+    },
+    "scripture-4": {
+      "image": "assets/scripture-4.webp",
+      "title": "Scripture \u00b7 Psalms 23:4",
+      "alt": "Actual VersePoint Scripture workspace with KJV Psalms chapter 23, verse 4 selected, presentation preview, and Scripture navigation.",
+      "hotspots": [
+        {
+          "label": "Explore Scripture",
+          "rect": [
+            0.008333,
+            0.93894,
+            0.050694,
+            0.049539
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Explore Songs",
+          "rect": [
+            0.0625,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "lyrics-1"
+        },
+        {
+          "label": "Explore Programs",
+          "rect": [
+            0.118056,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "program"
+        },
+        {
+          "label": "Open Motion Studio",
+          "rect": [
+            0.875,
+            0.139401,
+            0.114583,
+            0.041475
+          ],
+          "target": "motion-dots"
+        },
+        {
+          "label": "Select Psalms 23:1",
+          "rect": [
+            0.304861,
+            0.064516,
+            0.423611,
+            0.0553
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Show verse 1",
+          "rect": [
+            0.281944,
+            0.077189,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Select Psalms 23:2",
+          "rect": [
+            0.304861,
+            0.131336,
+            0.423611,
+            0.0553
+          ],
+          "target": "scripture-2"
+        },
+        {
+          "label": "Show verse 2",
+          "rect": [
+            0.281944,
+            0.144009,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-2"
+        },
+        {
+          "label": "Select Psalms 23:3",
+          "rect": [
+            0.304861,
+            0.198157,
+            0.423611,
+            0.0553
+          ],
+          "target": "scripture-3"
+        },
+        {
+          "label": "Show verse 3",
+          "rect": [
+            0.281944,
+            0.210829,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-3"
+        },
+        {
+          "label": "Select Psalms 23:4",
+          "rect": [
+            0.304861,
+            0.264977,
+            0.423611,
+            0.062212
+          ],
+          "target": "scripture-4"
+        },
+        {
+          "label": "Clear verse 4",
+          "rect": [
+            0.281944,
+            0.27765,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-4-cleared"
+        },
+        {
+          "label": "Select Psalms 23:5",
+          "rect": [
+            0.304861,
+            0.337558,
+            0.423611,
+            0.062212
+          ],
+          "target": "scripture-5"
+        },
+        {
+          "label": "Show verse 5",
+          "rect": [
+            0.281944,
+            0.35023,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-5"
+        },
+        {
+          "label": "Select Psalms 23:6",
+          "rect": [
+            0.304861,
+            0.410138,
+            0.423611,
+            0.062212
+          ],
+          "target": "scripture-6"
+        },
+        {
+          "label": "Show verse 6",
+          "rect": [
+            0.281944,
+            0.422811,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-6"
+        },
+        {
+          "label": "Clear Text",
+          "rect": [
+            0.010417,
+            0.309908,
+            0.067708,
+            0.037442
+          ],
+          "target": "scripture-4-cleared"
+        },
+        {
+          "label": "Collapse presentation tools",
+          "rect": [
+            0.967014,
+            0.013825,
+            0.024306,
+            0.040323
+          ],
+          "target": "tools-collapsed"
+        },
+        {
+          "label": "Open Style",
+          "rect": [
+            0.836458,
+            0.051267,
+            0.077778,
+            0.038018
+          ],
+          "target": "style-presets"
+        },
+        {
+          "label": "Open Settings",
+          "rect": [
+            0.967014,
+            0.939516,
+            0.024306,
+            0.047811
+          ],
+          "target": "settings-output"
+        }
+      ],
+      "focusRect": [
+        0.2,
+        0.02,
+        0.54,
+        0.51
+      ]
+    },
+    "scripture-4-cleared": {
+      "image": "assets/scripture-4-cleared.webp",
+      "title": "Scripture \u00b7 Psalms 23:4 \u00b7 Text cleared",
+      "alt": "Actual VersePoint Scripture workspace with KJV Psalms chapter 23, verse 4 selected, presentation preview, and Scripture navigation. The text status is cleared.",
+      "hotspots": [
+        {
+          "label": "Explore Scripture",
+          "rect": [
+            0.008333,
+            0.93894,
+            0.050694,
+            0.049539
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Explore Songs",
+          "rect": [
+            0.0625,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "lyrics-1"
+        },
+        {
+          "label": "Explore Programs",
+          "rect": [
+            0.118056,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "program"
+        },
+        {
+          "label": "Open Motion Studio",
+          "rect": [
+            0.875,
+            0.139401,
+            0.114583,
+            0.041475
+          ],
+          "target": "motion-dots"
+        },
+        {
+          "label": "Select Psalms 23:1",
+          "rect": [
+            0.304861,
+            0.064516,
+            0.423611,
+            0.0553
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Show verse 1",
+          "rect": [
+            0.281944,
+            0.077189,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Select Psalms 23:2",
+          "rect": [
+            0.304861,
+            0.131336,
+            0.423611,
+            0.0553
+          ],
+          "target": "scripture-2"
+        },
+        {
+          "label": "Show verse 2",
+          "rect": [
+            0.281944,
+            0.144009,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-2"
+        },
+        {
+          "label": "Select Psalms 23:3",
+          "rect": [
+            0.304861,
+            0.198157,
+            0.423611,
+            0.0553
+          ],
+          "target": "scripture-3"
+        },
+        {
+          "label": "Show verse 3",
+          "rect": [
+            0.281944,
+            0.210829,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-3"
+        },
+        {
+          "label": "Select Psalms 23:4",
+          "rect": [
+            0.304861,
+            0.264977,
+            0.423611,
+            0.062212
+          ],
+          "target": "scripture-4"
+        },
+        {
+          "label": "Show verse 4",
+          "rect": [
+            0.281944,
+            0.27765,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-4"
+        },
+        {
+          "label": "Select Psalms 23:5",
+          "rect": [
+            0.304861,
+            0.337558,
+            0.423611,
+            0.062212
+          ],
+          "target": "scripture-5"
+        },
+        {
+          "label": "Show verse 5",
+          "rect": [
+            0.281944,
+            0.35023,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-5"
+        },
+        {
+          "label": "Select Psalms 23:6",
+          "rect": [
+            0.304861,
+            0.410138,
+            0.423611,
+            0.062212
+          ],
+          "target": "scripture-6"
+        },
+        {
+          "label": "Show verse 6",
+          "rect": [
+            0.281944,
+            0.422811,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-6"
+        },
+        {
+          "label": "Show Text",
+          "rect": [
+            0.010417,
+            0.309908,
+            0.067708,
+            0.037442
+          ],
+          "target": "scripture-4"
+        },
+        {
+          "label": "Collapse presentation tools",
+          "rect": [
+            0.967014,
+            0.013825,
+            0.024306,
+            0.040323
+          ],
+          "target": "tools-collapsed"
+        },
+        {
+          "label": "Open Style",
+          "rect": [
+            0.836458,
+            0.051267,
+            0.077778,
+            0.038018
+          ],
+          "target": "style-presets"
+        },
+        {
+          "label": "Open Settings",
+          "rect": [
+            0.967014,
+            0.939516,
+            0.024306,
+            0.047811
+          ],
+          "target": "settings-output"
+        }
+      ],
+      "focusRect": [
+        0.2,
+        0.02,
+        0.54,
+        0.51
+      ]
+    },
+    "scripture-5": {
+      "image": "assets/scripture-5.webp",
+      "title": "Scripture \u00b7 Psalms 23:5",
+      "alt": "Actual VersePoint Scripture workspace with KJV Psalms chapter 23, verse 5 selected, presentation preview, and Scripture navigation.",
+      "hotspots": [
+        {
+          "label": "Explore Scripture",
+          "rect": [
+            0.008333,
+            0.93894,
+            0.050694,
+            0.049539
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Explore Songs",
+          "rect": [
+            0.0625,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "lyrics-1"
+        },
+        {
+          "label": "Explore Programs",
+          "rect": [
+            0.118056,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "program"
+        },
+        {
+          "label": "Open Motion Studio",
+          "rect": [
+            0.875,
+            0.139401,
+            0.114583,
+            0.041475
+          ],
+          "target": "motion-dots"
+        },
+        {
+          "label": "Select Psalms 23:1",
+          "rect": [
+            0.304861,
+            0.064516,
+            0.423611,
+            0.0553
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Show verse 1",
+          "rect": [
+            0.281944,
+            0.077189,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Select Psalms 23:2",
+          "rect": [
+            0.304861,
+            0.131336,
+            0.423611,
+            0.0553
+          ],
+          "target": "scripture-2"
+        },
+        {
+          "label": "Show verse 2",
+          "rect": [
+            0.281944,
+            0.144009,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-2"
+        },
+        {
+          "label": "Select Psalms 23:3",
+          "rect": [
+            0.304861,
+            0.198157,
+            0.423611,
+            0.0553
+          ],
+          "target": "scripture-3"
+        },
+        {
+          "label": "Show verse 3",
+          "rect": [
+            0.281944,
+            0.210829,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-3"
+        },
+        {
+          "label": "Select Psalms 23:4",
+          "rect": [
+            0.304861,
+            0.264977,
+            0.423611,
+            0.062212
+          ],
+          "target": "scripture-4"
+        },
+        {
+          "label": "Show verse 4",
+          "rect": [
+            0.281944,
+            0.27765,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-4"
+        },
+        {
+          "label": "Select Psalms 23:5",
+          "rect": [
+            0.304861,
+            0.337558,
+            0.423611,
+            0.062212
+          ],
+          "target": "scripture-5"
+        },
+        {
+          "label": "Clear verse 5",
+          "rect": [
+            0.281944,
+            0.35023,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-5-cleared"
+        },
+        {
+          "label": "Select Psalms 23:6",
+          "rect": [
+            0.304861,
+            0.410138,
+            0.423611,
+            0.062212
+          ],
+          "target": "scripture-6"
+        },
+        {
+          "label": "Show verse 6",
+          "rect": [
+            0.281944,
+            0.422811,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-6"
+        },
+        {
+          "label": "Clear Text",
+          "rect": [
+            0.010417,
+            0.309908,
+            0.067708,
+            0.037442
+          ],
+          "target": "scripture-5-cleared"
+        },
+        {
+          "label": "Collapse presentation tools",
+          "rect": [
+            0.967014,
+            0.013825,
+            0.024306,
+            0.040323
+          ],
+          "target": "tools-collapsed"
+        },
+        {
+          "label": "Open Style",
+          "rect": [
+            0.836458,
+            0.051267,
+            0.077778,
+            0.038018
+          ],
+          "target": "style-presets"
+        },
+        {
+          "label": "Open Settings",
+          "rect": [
+            0.967014,
+            0.939516,
+            0.024306,
+            0.047811
+          ],
+          "target": "settings-output"
+        }
+      ],
+      "focusRect": [
+        0.2,
+        0.02,
+        0.54,
+        0.51
+      ]
+    },
+    "scripture-5-cleared": {
+      "image": "assets/scripture-5-cleared.webp",
+      "title": "Scripture \u00b7 Psalms 23:5 \u00b7 Text cleared",
+      "alt": "Actual VersePoint Scripture workspace with KJV Psalms chapter 23, verse 5 selected, presentation preview, and Scripture navigation. The text status is cleared.",
+      "hotspots": [
+        {
+          "label": "Explore Scripture",
+          "rect": [
+            0.008333,
+            0.93894,
+            0.050694,
+            0.049539
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Explore Songs",
+          "rect": [
+            0.0625,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "lyrics-1"
+        },
+        {
+          "label": "Explore Programs",
+          "rect": [
+            0.118056,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "program"
+        },
+        {
+          "label": "Open Motion Studio",
+          "rect": [
+            0.875,
+            0.139401,
+            0.114583,
+            0.041475
+          ],
+          "target": "motion-dots"
+        },
+        {
+          "label": "Select Psalms 23:1",
+          "rect": [
+            0.304861,
+            0.064516,
+            0.423611,
+            0.0553
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Show verse 1",
+          "rect": [
+            0.281944,
+            0.077189,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Select Psalms 23:2",
+          "rect": [
+            0.304861,
+            0.131336,
+            0.423611,
+            0.0553
+          ],
+          "target": "scripture-2"
+        },
+        {
+          "label": "Show verse 2",
+          "rect": [
+            0.281944,
+            0.144009,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-2"
+        },
+        {
+          "label": "Select Psalms 23:3",
+          "rect": [
+            0.304861,
+            0.198157,
+            0.423611,
+            0.0553
+          ],
+          "target": "scripture-3"
+        },
+        {
+          "label": "Show verse 3",
+          "rect": [
+            0.281944,
+            0.210829,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-3"
+        },
+        {
+          "label": "Select Psalms 23:4",
+          "rect": [
+            0.304861,
+            0.264977,
+            0.423611,
+            0.062212
+          ],
+          "target": "scripture-4"
+        },
+        {
+          "label": "Show verse 4",
+          "rect": [
+            0.281944,
+            0.27765,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-4"
+        },
+        {
+          "label": "Select Psalms 23:5",
+          "rect": [
+            0.304861,
+            0.337558,
+            0.423611,
+            0.062212
+          ],
+          "target": "scripture-5"
+        },
+        {
+          "label": "Show verse 5",
+          "rect": [
+            0.281944,
+            0.35023,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-5"
+        },
+        {
+          "label": "Select Psalms 23:6",
+          "rect": [
+            0.304861,
+            0.410138,
+            0.423611,
+            0.062212
+          ],
+          "target": "scripture-6"
+        },
+        {
+          "label": "Show verse 6",
+          "rect": [
+            0.281944,
+            0.422811,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-6"
+        },
+        {
+          "label": "Show Text",
+          "rect": [
+            0.010417,
+            0.309908,
+            0.067708,
+            0.037442
+          ],
+          "target": "scripture-5"
+        },
+        {
+          "label": "Collapse presentation tools",
+          "rect": [
+            0.967014,
+            0.013825,
+            0.024306,
+            0.040323
+          ],
+          "target": "tools-collapsed"
+        },
+        {
+          "label": "Open Style",
+          "rect": [
+            0.836458,
+            0.051267,
+            0.077778,
+            0.038018
+          ],
+          "target": "style-presets"
+        },
+        {
+          "label": "Open Settings",
+          "rect": [
+            0.967014,
+            0.939516,
+            0.024306,
+            0.047811
+          ],
+          "target": "settings-output"
+        }
+      ],
+      "focusRect": [
+        0.2,
+        0.02,
+        0.54,
+        0.51
+      ]
+    },
+    "scripture-6": {
+      "image": "assets/scripture-6.webp",
+      "title": "Scripture \u00b7 Psalms 23:6",
+      "alt": "Actual VersePoint Scripture workspace with KJV Psalms chapter 23, verse 6 selected, presentation preview, and Scripture navigation.",
+      "hotspots": [
+        {
+          "label": "Explore Scripture",
+          "rect": [
+            0.008333,
+            0.93894,
+            0.050694,
+            0.049539
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Explore Songs",
+          "rect": [
+            0.0625,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "lyrics-1"
+        },
+        {
+          "label": "Explore Programs",
+          "rect": [
+            0.118056,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "program"
+        },
+        {
+          "label": "Open Motion Studio",
+          "rect": [
+            0.875,
+            0.139401,
+            0.114583,
+            0.041475
+          ],
+          "target": "motion-dots"
+        },
+        {
+          "label": "Select Psalms 23:1",
+          "rect": [
+            0.304861,
+            0.064516,
+            0.423611,
+            0.0553
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Show verse 1",
+          "rect": [
+            0.281944,
+            0.077189,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Select Psalms 23:2",
+          "rect": [
+            0.304861,
+            0.131336,
+            0.423611,
+            0.0553
+          ],
+          "target": "scripture-2"
+        },
+        {
+          "label": "Show verse 2",
+          "rect": [
+            0.281944,
+            0.144009,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-2"
+        },
+        {
+          "label": "Select Psalms 23:3",
+          "rect": [
+            0.304861,
+            0.198157,
+            0.423611,
+            0.0553
+          ],
+          "target": "scripture-3"
+        },
+        {
+          "label": "Show verse 3",
+          "rect": [
+            0.281944,
+            0.210829,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-3"
+        },
+        {
+          "label": "Select Psalms 23:4",
+          "rect": [
+            0.304861,
+            0.264977,
+            0.423611,
+            0.062212
+          ],
+          "target": "scripture-4"
+        },
+        {
+          "label": "Show verse 4",
+          "rect": [
+            0.281944,
+            0.27765,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-4"
+        },
+        {
+          "label": "Select Psalms 23:5",
+          "rect": [
+            0.304861,
+            0.337558,
+            0.423611,
+            0.062212
+          ],
+          "target": "scripture-5"
+        },
+        {
+          "label": "Show verse 5",
+          "rect": [
+            0.281944,
+            0.35023,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-5"
+        },
+        {
+          "label": "Select Psalms 23:6",
+          "rect": [
+            0.304861,
+            0.410138,
+            0.423611,
+            0.062212
+          ],
+          "target": "scripture-6"
+        },
+        {
+          "label": "Clear verse 6",
+          "rect": [
+            0.281944,
+            0.422811,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-6-cleared"
+        },
+        {
+          "label": "Clear Text",
+          "rect": [
+            0.010417,
+            0.309908,
+            0.067708,
+            0.037442
+          ],
+          "target": "scripture-6-cleared"
+        },
+        {
+          "label": "Collapse presentation tools",
+          "rect": [
+            0.967014,
+            0.013825,
+            0.024306,
+            0.040323
+          ],
+          "target": "tools-collapsed"
+        },
+        {
+          "label": "Open Style",
+          "rect": [
+            0.836458,
+            0.051267,
+            0.077778,
+            0.038018
+          ],
+          "target": "style-presets"
+        },
+        {
+          "label": "Open Settings",
+          "rect": [
+            0.967014,
+            0.939516,
+            0.024306,
+            0.047811
+          ],
+          "target": "settings-output"
+        }
+      ],
+      "focusRect": [
+        0.2,
+        0.02,
+        0.54,
+        0.51
+      ]
+    },
+    "scripture-6-cleared": {
+      "image": "assets/scripture-6-cleared.webp",
+      "title": "Scripture \u00b7 Psalms 23:6 \u00b7 Text cleared",
+      "alt": "Actual VersePoint Scripture workspace with KJV Psalms chapter 23, verse 6 selected, presentation preview, and Scripture navigation. The text status is cleared.",
+      "hotspots": [
+        {
+          "label": "Explore Scripture",
+          "rect": [
+            0.008333,
+            0.93894,
+            0.050694,
+            0.049539
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Explore Songs",
+          "rect": [
+            0.0625,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "lyrics-1"
+        },
+        {
+          "label": "Explore Programs",
+          "rect": [
+            0.118056,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "program"
+        },
+        {
+          "label": "Open Motion Studio",
+          "rect": [
+            0.875,
+            0.139401,
+            0.114583,
+            0.041475
+          ],
+          "target": "motion-dots"
+        },
+        {
+          "label": "Select Psalms 23:1",
+          "rect": [
+            0.304861,
+            0.064516,
+            0.423611,
+            0.0553
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Show verse 1",
+          "rect": [
+            0.281944,
+            0.077189,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Select Psalms 23:2",
+          "rect": [
+            0.304861,
+            0.131336,
+            0.423611,
+            0.0553
+          ],
+          "target": "scripture-2"
+        },
+        {
+          "label": "Show verse 2",
+          "rect": [
+            0.281944,
+            0.144009,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-2"
+        },
+        {
+          "label": "Select Psalms 23:3",
+          "rect": [
+            0.304861,
+            0.198157,
+            0.423611,
+            0.0553
+          ],
+          "target": "scripture-3"
+        },
+        {
+          "label": "Show verse 3",
+          "rect": [
+            0.281944,
+            0.210829,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-3"
+        },
+        {
+          "label": "Select Psalms 23:4",
+          "rect": [
+            0.304861,
+            0.264977,
+            0.423611,
+            0.062212
+          ],
+          "target": "scripture-4"
+        },
+        {
+          "label": "Show verse 4",
+          "rect": [
+            0.281944,
+            0.27765,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-4"
+        },
+        {
+          "label": "Select Psalms 23:5",
+          "rect": [
+            0.304861,
+            0.337558,
+            0.423611,
+            0.062212
+          ],
+          "target": "scripture-5"
+        },
+        {
+          "label": "Show verse 5",
+          "rect": [
+            0.281944,
+            0.35023,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-5"
+        },
+        {
+          "label": "Select Psalms 23:6",
+          "rect": [
+            0.304861,
+            0.410138,
+            0.423611,
+            0.062212
+          ],
+          "target": "scripture-6"
+        },
+        {
+          "label": "Show verse 6",
+          "rect": [
+            0.281944,
+            0.422811,
+            0.019444,
+            0.02765
+          ],
+          "target": "scripture-6"
+        },
+        {
+          "label": "Show Text",
+          "rect": [
+            0.010417,
+            0.309908,
+            0.067708,
+            0.037442
+          ],
+          "target": "scripture-6"
+        },
+        {
+          "label": "Collapse presentation tools",
+          "rect": [
+            0.967014,
+            0.013825,
+            0.024306,
+            0.040323
+          ],
+          "target": "tools-collapsed"
+        },
+        {
+          "label": "Open Style",
+          "rect": [
+            0.836458,
+            0.051267,
+            0.077778,
+            0.038018
+          ],
+          "target": "style-presets"
+        },
+        {
+          "label": "Open Settings",
+          "rect": [
+            0.967014,
+            0.939516,
+            0.024306,
+            0.047811
+          ],
+          "target": "settings-output"
+        }
+      ],
+      "focusRect": [
+        0.2,
+        0.02,
+        0.54,
+        0.51
+      ]
+    },
+    "lyrics-1": {
+      "image": "assets/lyrics-1.webp",
+      "title": "Songs \u00b7 Amazing Grace \u00b7 Slide 1 of 4",
+      "alt": "Actual VersePoint Songs workspace showing Amazing Grace, slide 1 of 4, the song library, slide list, editor, and presentation preview.",
+      "hotspots": [
+        {
+          "label": "Explore Scripture",
+          "rect": [
+            0.008333,
+            0.93894,
+            0.050694,
+            0.049539
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Explore Songs",
+          "rect": [
+            0.0625,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "lyrics-1"
+        },
+        {
+          "label": "Explore Programs",
+          "rect": [
+            0.118056,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "program"
+        },
+        {
+          "label": "Open Motion Studio",
+          "rect": [
+            0.875,
+            0.139401,
+            0.114583,
+            0.041475
+          ],
+          "target": "motion-dots"
+        },
+        {
+          "label": "Select Amazing Grace",
+          "rect": [
+            0.013889,
+            0.49712,
+            0.180556,
+            0.042051
+          ],
+          "target": "lyrics-1"
+        },
+        {
+          "label": "Select Gathered in Your Name",
+          "rect": [
+            0.013889,
+            0.555876,
+            0.180556,
+            0.042051
+          ],
+          "target": "gathered-1"
+        },
+        {
+          "label": "Select slide 1",
+          "rect": [
+            0.257639,
+            0.080645,
+            0.174653,
+            0.123272
+          ],
+          "target": "lyrics-1"
+        },
+        {
+          "label": "Select slide 2",
+          "rect": [
+            0.257639,
+            0.214286,
+            0.174653,
+            0.102535
+          ],
+          "target": "lyrics-2"
+        },
+        {
+          "label": "Select slide 3",
+          "rect": [
+            0.257639,
+            0.326037,
+            0.174653,
+            0.124424
+          ],
+          "target": "lyrics-3"
+        },
+        {
+          "label": "Select slide 4",
+          "rect": [
+            0.257639,
+            0.459677,
+            0.174653,
+            0.101382
+          ],
+          "target": "lyrics-4"
+        },
+        {
+          "label": "Collapse presentation tools",
+          "rect": [
+            0.967014,
+            0.013825,
+            0.024306,
+            0.040323
+          ],
+          "target": "tools-collapsed"
+        },
+        {
+          "label": "Open Style",
+          "rect": [
+            0.836458,
+            0.051267,
+            0.077778,
+            0.038018
+          ],
+          "target": "style-presets"
+        },
+        {
+          "label": "Open Settings",
+          "rect": [
+            0.967014,
+            0.939516,
+            0.024306,
+            0.047811
+          ],
+          "target": "settings-output"
+        }
+      ],
+      "focusRect": [
+        0.2,
+        0.04,
+        0.37,
+        0.57
+      ]
+    },
+    "lyrics-2": {
+      "image": "assets/lyrics-2.webp",
+      "title": "Songs \u00b7 Amazing Grace \u00b7 Slide 2 of 4",
+      "alt": "Actual VersePoint Songs workspace showing Amazing Grace, slide 2 of 4, the song library, slide list, editor, and presentation preview.",
+      "hotspots": [
+        {
+          "label": "Explore Scripture",
+          "rect": [
+            0.008333,
+            0.93894,
+            0.050694,
+            0.049539
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Explore Songs",
+          "rect": [
+            0.0625,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "lyrics-1"
+        },
+        {
+          "label": "Explore Programs",
+          "rect": [
+            0.118056,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "program"
+        },
+        {
+          "label": "Open Motion Studio",
+          "rect": [
+            0.875,
+            0.139401,
+            0.114583,
+            0.041475
+          ],
+          "target": "motion-dots"
+        },
+        {
+          "label": "Select Amazing Grace",
+          "rect": [
+            0.013889,
+            0.49712,
+            0.180556,
+            0.042051
+          ],
+          "target": "lyrics-1"
+        },
+        {
+          "label": "Select Gathered in Your Name",
+          "rect": [
+            0.013889,
+            0.555876,
+            0.180556,
+            0.042051
+          ],
+          "target": "gathered-1"
+        },
+        {
+          "label": "Select slide 1",
+          "rect": [
+            0.257639,
+            0.080645,
+            0.174653,
+            0.123272
+          ],
+          "target": "lyrics-1"
+        },
+        {
+          "label": "Select slide 2",
+          "rect": [
+            0.257639,
+            0.214286,
+            0.174653,
+            0.102535
+          ],
+          "target": "lyrics-2"
+        },
+        {
+          "label": "Select slide 3",
+          "rect": [
+            0.257639,
+            0.326037,
+            0.174653,
+            0.124424
+          ],
+          "target": "lyrics-3"
+        },
+        {
+          "label": "Select slide 4",
+          "rect": [
+            0.257639,
+            0.459677,
+            0.174653,
+            0.101382
+          ],
+          "target": "lyrics-4"
+        },
+        {
+          "label": "Collapse presentation tools",
+          "rect": [
+            0.967014,
+            0.013825,
+            0.024306,
+            0.040323
+          ],
+          "target": "tools-collapsed"
+        },
+        {
+          "label": "Open Style",
+          "rect": [
+            0.836458,
+            0.051267,
+            0.077778,
+            0.038018
+          ],
+          "target": "style-presets"
+        },
+        {
+          "label": "Open Settings",
+          "rect": [
+            0.967014,
+            0.939516,
+            0.024306,
+            0.047811
+          ],
+          "target": "settings-output"
+        }
+      ],
+      "focusRect": [
+        0.2,
+        0.04,
+        0.37,
+        0.57
+      ]
+    },
+    "lyrics-3": {
+      "image": "assets/lyrics-3.webp",
+      "title": "Songs \u00b7 Amazing Grace \u00b7 Slide 3 of 4",
+      "alt": "Actual VersePoint Songs workspace showing Amazing Grace, slide 3 of 4, the song library, slide list, editor, and presentation preview.",
+      "hotspots": [
+        {
+          "label": "Explore Scripture",
+          "rect": [
+            0.008333,
+            0.93894,
+            0.050694,
+            0.049539
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Explore Songs",
+          "rect": [
+            0.0625,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "lyrics-1"
+        },
+        {
+          "label": "Explore Programs",
+          "rect": [
+            0.118056,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "program"
+        },
+        {
+          "label": "Open Motion Studio",
+          "rect": [
+            0.875,
+            0.139401,
+            0.114583,
+            0.041475
+          ],
+          "target": "motion-dots"
+        },
+        {
+          "label": "Select Amazing Grace",
+          "rect": [
+            0.013889,
+            0.49712,
+            0.180556,
+            0.042051
+          ],
+          "target": "lyrics-1"
+        },
+        {
+          "label": "Select Gathered in Your Name",
+          "rect": [
+            0.013889,
+            0.555876,
+            0.180556,
+            0.042051
+          ],
+          "target": "gathered-1"
+        },
+        {
+          "label": "Select slide 1",
+          "rect": [
+            0.257639,
+            0.080645,
+            0.174653,
+            0.123272
+          ],
+          "target": "lyrics-1"
+        },
+        {
+          "label": "Select slide 2",
+          "rect": [
+            0.257639,
+            0.214286,
+            0.174653,
+            0.102535
+          ],
+          "target": "lyrics-2"
+        },
+        {
+          "label": "Select slide 3",
+          "rect": [
+            0.257639,
+            0.326037,
+            0.174653,
+            0.124424
+          ],
+          "target": "lyrics-3"
+        },
+        {
+          "label": "Select slide 4",
+          "rect": [
+            0.257639,
+            0.459677,
+            0.174653,
+            0.101382
+          ],
+          "target": "lyrics-4"
+        },
+        {
+          "label": "Collapse presentation tools",
+          "rect": [
+            0.967014,
+            0.013825,
+            0.024306,
+            0.040323
+          ],
+          "target": "tools-collapsed"
+        },
+        {
+          "label": "Open Style",
+          "rect": [
+            0.836458,
+            0.051267,
+            0.077778,
+            0.038018
+          ],
+          "target": "style-presets"
+        },
+        {
+          "label": "Open Settings",
+          "rect": [
+            0.967014,
+            0.939516,
+            0.024306,
+            0.047811
+          ],
+          "target": "settings-output"
+        }
+      ],
+      "focusRect": [
+        0.2,
+        0.04,
+        0.37,
+        0.57
+      ]
+    },
+    "lyrics-4": {
+      "image": "assets/lyrics-4.webp",
+      "title": "Songs \u00b7 Amazing Grace \u00b7 Slide 4 of 4",
+      "alt": "Actual VersePoint Songs workspace showing Amazing Grace, slide 4 of 4, the song library, slide list, editor, and presentation preview.",
+      "hotspots": [
+        {
+          "label": "Explore Scripture",
+          "rect": [
+            0.008333,
+            0.93894,
+            0.050694,
+            0.049539
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Explore Songs",
+          "rect": [
+            0.0625,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "lyrics-1"
+        },
+        {
+          "label": "Explore Programs",
+          "rect": [
+            0.118056,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "program"
+        },
+        {
+          "label": "Open Motion Studio",
+          "rect": [
+            0.875,
+            0.139401,
+            0.114583,
+            0.041475
+          ],
+          "target": "motion-dots"
+        },
+        {
+          "label": "Select Amazing Grace",
+          "rect": [
+            0.013889,
+            0.49712,
+            0.180556,
+            0.042051
+          ],
+          "target": "lyrics-1"
+        },
+        {
+          "label": "Select Gathered in Your Name",
+          "rect": [
+            0.013889,
+            0.555876,
+            0.180556,
+            0.042051
+          ],
+          "target": "gathered-1"
+        },
+        {
+          "label": "Select slide 1",
+          "rect": [
+            0.257639,
+            0.080645,
+            0.174653,
+            0.123272
+          ],
+          "target": "lyrics-1"
+        },
+        {
+          "label": "Select slide 2",
+          "rect": [
+            0.257639,
+            0.214286,
+            0.174653,
+            0.102535
+          ],
+          "target": "lyrics-2"
+        },
+        {
+          "label": "Select slide 3",
+          "rect": [
+            0.257639,
+            0.326037,
+            0.174653,
+            0.124424
+          ],
+          "target": "lyrics-3"
+        },
+        {
+          "label": "Select slide 4",
+          "rect": [
+            0.257639,
+            0.459677,
+            0.174653,
+            0.101382
+          ],
+          "target": "lyrics-4"
+        },
+        {
+          "label": "Collapse presentation tools",
+          "rect": [
+            0.967014,
+            0.013825,
+            0.024306,
+            0.040323
+          ],
+          "target": "tools-collapsed"
+        },
+        {
+          "label": "Open Style",
+          "rect": [
+            0.836458,
+            0.051267,
+            0.077778,
+            0.038018
+          ],
+          "target": "style-presets"
+        },
+        {
+          "label": "Open Settings",
+          "rect": [
+            0.967014,
+            0.939516,
+            0.024306,
+            0.047811
+          ],
+          "target": "settings-output"
+        }
+      ],
+      "focusRect": [
+        0.2,
+        0.04,
+        0.37,
+        0.57
+      ]
+    },
+    "gathered-1": {
+      "image": "assets/gathered-1.webp",
+      "title": "Songs \u00b7 Gathered in Your Name \u00b7 Slide 1 of 3",
+      "alt": "Actual VersePoint Songs workspace showing Gathered in Your Name, slide 1 of 3, the song library, slide list, editor, and presentation preview.",
+      "hotspots": [
+        {
+          "label": "Explore Scripture",
+          "rect": [
+            0.008333,
+            0.93894,
+            0.050694,
+            0.049539
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Explore Songs",
+          "rect": [
+            0.0625,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "lyrics-1"
+        },
+        {
+          "label": "Explore Programs",
+          "rect": [
+            0.118056,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "program"
+        },
+        {
+          "label": "Open Motion Studio",
+          "rect": [
+            0.875,
+            0.139401,
+            0.114583,
+            0.041475
+          ],
+          "target": "motion-dots"
+        },
+        {
+          "label": "Select Amazing Grace",
+          "rect": [
+            0.013889,
+            0.49712,
+            0.180556,
+            0.042051
+          ],
+          "target": "lyrics-1"
+        },
+        {
+          "label": "Select Gathered in Your Name",
+          "rect": [
+            0.013889,
+            0.555876,
+            0.180556,
+            0.042051
+          ],
+          "target": "gathered-1"
+        },
+        {
+          "label": "Select slide 1",
+          "rect": [
+            0.257639,
+            0.080645,
+            0.174653,
+            0.101382
+          ],
+          "target": "gathered-1"
+        },
+        {
+          "label": "Select slide 2",
+          "rect": [
+            0.257639,
+            0.19182,
+            0.174653,
+            0.101959
+          ],
+          "target": "gathered-2"
+        },
+        {
+          "label": "Select slide 3",
+          "rect": [
+            0.257639,
+            0.304147,
+            0.174653,
+            0.101959
+          ],
+          "target": "gathered-3"
+        },
+        {
+          "label": "Collapse presentation tools",
+          "rect": [
+            0.967014,
+            0.013825,
+            0.024306,
+            0.040323
+          ],
+          "target": "tools-collapsed"
+        },
+        {
+          "label": "Open Style",
+          "rect": [
+            0.836458,
+            0.051267,
+            0.077778,
+            0.038018
+          ],
+          "target": "style-presets"
+        },
+        {
+          "label": "Open Settings",
+          "rect": [
+            0.967014,
+            0.939516,
+            0.024306,
+            0.047811
+          ],
+          "target": "settings-output"
+        }
+      ],
+      "focusRect": [
+        0.2,
+        0.04,
+        0.37,
+        0.57
+      ]
+    },
+    "gathered-2": {
+      "image": "assets/gathered-2.webp",
+      "title": "Songs \u00b7 Gathered in Your Name \u00b7 Slide 2 of 3",
+      "alt": "Actual VersePoint Songs workspace showing Gathered in Your Name, slide 2 of 3, the song library, slide list, editor, and presentation preview.",
+      "hotspots": [
+        {
+          "label": "Explore Scripture",
+          "rect": [
+            0.008333,
+            0.93894,
+            0.050694,
+            0.049539
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Explore Songs",
+          "rect": [
+            0.0625,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "lyrics-1"
+        },
+        {
+          "label": "Explore Programs",
+          "rect": [
+            0.118056,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "program"
+        },
+        {
+          "label": "Open Motion Studio",
+          "rect": [
+            0.875,
+            0.139401,
+            0.114583,
+            0.041475
+          ],
+          "target": "motion-dots"
+        },
+        {
+          "label": "Select Amazing Grace",
+          "rect": [
+            0.013889,
+            0.49712,
+            0.180556,
+            0.042051
+          ],
+          "target": "lyrics-1"
+        },
+        {
+          "label": "Select Gathered in Your Name",
+          "rect": [
+            0.013889,
+            0.555876,
+            0.180556,
+            0.042051
+          ],
+          "target": "gathered-1"
+        },
+        {
+          "label": "Select slide 1",
+          "rect": [
+            0.257639,
+            0.080645,
+            0.174653,
+            0.101382
+          ],
+          "target": "gathered-1"
+        },
+        {
+          "label": "Select slide 2",
+          "rect": [
+            0.257639,
+            0.19182,
+            0.174653,
+            0.101959
+          ],
+          "target": "gathered-2"
+        },
+        {
+          "label": "Select slide 3",
+          "rect": [
+            0.257639,
+            0.304147,
+            0.174653,
+            0.101959
+          ],
+          "target": "gathered-3"
+        },
+        {
+          "label": "Collapse presentation tools",
+          "rect": [
+            0.967014,
+            0.013825,
+            0.024306,
+            0.040323
+          ],
+          "target": "tools-collapsed"
+        },
+        {
+          "label": "Open Style",
+          "rect": [
+            0.836458,
+            0.051267,
+            0.077778,
+            0.038018
+          ],
+          "target": "style-presets"
+        },
+        {
+          "label": "Open Settings",
+          "rect": [
+            0.967014,
+            0.939516,
+            0.024306,
+            0.047811
+          ],
+          "target": "settings-output"
+        }
+      ],
+      "focusRect": [
+        0.2,
+        0.04,
+        0.37,
+        0.57
+      ]
+    },
+    "gathered-3": {
+      "image": "assets/gathered-3.webp",
+      "title": "Songs \u00b7 Gathered in Your Name \u00b7 Slide 3 of 3",
+      "alt": "Actual VersePoint Songs workspace showing Gathered in Your Name, slide 3 of 3, the song library, slide list, editor, and presentation preview.",
+      "hotspots": [
+        {
+          "label": "Explore Scripture",
+          "rect": [
+            0.008333,
+            0.93894,
+            0.050694,
+            0.049539
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Explore Songs",
+          "rect": [
+            0.0625,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "lyrics-1"
+        },
+        {
+          "label": "Explore Programs",
+          "rect": [
+            0.118056,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "program"
+        },
+        {
+          "label": "Open Motion Studio",
+          "rect": [
+            0.875,
+            0.139401,
+            0.114583,
+            0.041475
+          ],
+          "target": "motion-dots"
+        },
+        {
+          "label": "Select Amazing Grace",
+          "rect": [
+            0.013889,
+            0.49712,
+            0.180556,
+            0.042051
+          ],
+          "target": "lyrics-1"
+        },
+        {
+          "label": "Select Gathered in Your Name",
+          "rect": [
+            0.013889,
+            0.555876,
+            0.180556,
+            0.042051
+          ],
+          "target": "gathered-1"
+        },
+        {
+          "label": "Select slide 1",
+          "rect": [
+            0.257639,
+            0.080645,
+            0.174653,
+            0.101382
+          ],
+          "target": "gathered-1"
+        },
+        {
+          "label": "Select slide 2",
+          "rect": [
+            0.257639,
+            0.19182,
+            0.174653,
+            0.101959
+          ],
+          "target": "gathered-2"
+        },
+        {
+          "label": "Select slide 3",
+          "rect": [
+            0.257639,
+            0.304147,
+            0.174653,
+            0.101959
+          ],
+          "target": "gathered-3"
+        },
+        {
+          "label": "Collapse presentation tools",
+          "rect": [
+            0.967014,
+            0.013825,
+            0.024306,
+            0.040323
+          ],
+          "target": "tools-collapsed"
+        },
+        {
+          "label": "Open Style",
+          "rect": [
+            0.836458,
+            0.051267,
+            0.077778,
+            0.038018
+          ],
+          "target": "style-presets"
+        },
+        {
+          "label": "Open Settings",
+          "rect": [
+            0.967014,
+            0.939516,
+            0.024306,
+            0.047811
+          ],
+          "target": "settings-output"
+        }
+      ],
+      "focusRect": [
+        0.2,
+        0.04,
+        0.37,
+        0.57
+      ]
+    },
+    "program": {
+      "image": "assets/program.webp",
+      "title": "Programs \u00b7 Sunday Gathering",
+      "alt": "Actual VersePoint Programs workspace with the Sunday Gathering service containing Amazing Grace, Psalms 23:1, John 3:16, and Gathered in Your Name.",
+      "hotspots": [
+        {
+          "label": "Explore Scripture",
+          "rect": [
+            0.008333,
+            0.93894,
+            0.050694,
+            0.049539
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Explore Songs",
+          "rect": [
+            0.0625,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "lyrics-1"
+        },
+        {
+          "label": "Explore Programs",
+          "rect": [
+            0.118056,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "program"
+        },
+        {
+          "label": "Open Motion Studio",
+          "rect": [
+            0.875,
+            0.139401,
+            0.114583,
+            0.041475
+          ],
+          "target": "motion-dots"
+        },
+        {
+          "label": "Select Amazing Grace",
+          "rect": [
+            0.04375,
+            0.535714,
+            0.15625,
+            0.050691
+          ],
+          "target": "program-1"
+        },
+        {
+          "label": "Select Psalms 23:1",
+          "rect": [
+            0.04375,
+            0.601382,
+            0.15625,
+            0.050691
+          ],
+          "target": "program-2"
+        },
+        {
+          "label": "Select John 3:16",
+          "rect": [
+            0.04375,
+            0.667051,
+            0.15625,
+            0.050691
+          ],
+          "target": "program-3"
+        },
+        {
+          "label": "Select Gathered in Your Name",
+          "rect": [
+            0.04375,
+            0.732719,
+            0.15625,
+            0.050691
+          ],
+          "target": "program-4"
+        },
+        {
+          "label": "Collapse presentation tools",
+          "rect": [
+            0.967014,
+            0.013825,
+            0.024306,
+            0.040323
+          ],
+          "target": "tools-collapsed"
+        },
+        {
+          "label": "Open Style",
+          "rect": [
+            0.836458,
+            0.051267,
+            0.077778,
+            0.038018
+          ],
+          "target": "style-presets"
+        },
+        {
+          "label": "Open Settings",
+          "rect": [
+            0.967014,
+            0.939516,
+            0.024306,
+            0.047811
+          ],
+          "target": "settings-output"
+        }
+      ],
+      "focusRect": [
+        0,
+        0.3,
+        0.24,
+        0.64
+      ]
+    },
+    "program-1": {
+      "image": "assets/program-1.webp",
+      "title": "Programs \u00b7 Sunday Gathering \u00b7 Amazing Grace",
+      "alt": "Actual VersePoint Programs workspace with the Sunday Gathering service containing Amazing Grace, Psalms 23:1, John 3:16, and Gathered in Your Name. Amazing Grace is selected.",
+      "hotspots": [
+        {
+          "label": "Explore Scripture",
+          "rect": [
+            0.008333,
+            0.93894,
+            0.050694,
+            0.049539
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Explore Songs",
+          "rect": [
+            0.0625,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "lyrics-1"
+        },
+        {
+          "label": "Explore Programs",
+          "rect": [
+            0.118056,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "program"
+        },
+        {
+          "label": "Open Motion Studio",
+          "rect": [
+            0.875,
+            0.139401,
+            0.114583,
+            0.041475
+          ],
+          "target": "motion-dots"
+        },
+        {
+          "label": "Select Amazing Grace",
+          "rect": [
+            0.04375,
+            0.535714,
+            0.15625,
+            0.050691
+          ],
+          "target": "program-1"
+        },
+        {
+          "label": "Select Psalms 23:1",
+          "rect": [
+            0.04375,
+            0.601382,
+            0.15625,
+            0.050691
+          ],
+          "target": "program-2"
+        },
+        {
+          "label": "Select John 3:16",
+          "rect": [
+            0.04375,
+            0.667051,
+            0.15625,
+            0.050691
+          ],
+          "target": "program-3"
+        },
+        {
+          "label": "Select Gathered in Your Name",
+          "rect": [
+            0.04375,
+            0.732719,
+            0.15625,
+            0.050691
+          ],
+          "target": "program-4"
+        },
+        {
+          "label": "Collapse presentation tools",
+          "rect": [
+            0.967014,
+            0.013825,
+            0.024306,
+            0.040323
+          ],
+          "target": "tools-collapsed"
+        },
+        {
+          "label": "Open Style",
+          "rect": [
+            0.836458,
+            0.051267,
+            0.077778,
+            0.038018
+          ],
+          "target": "style-presets"
+        },
+        {
+          "label": "Open Settings",
+          "rect": [
+            0.967014,
+            0.939516,
+            0.024306,
+            0.047811
+          ],
+          "target": "settings-output"
+        }
+      ],
+      "focusRect": [
+        0,
+        0.3,
+        0.24,
+        0.64
+      ]
+    },
+    "program-2": {
+      "image": "assets/program-2.webp",
+      "title": "Programs \u00b7 Sunday Gathering \u00b7 Psalms 23:1",
+      "alt": "Actual VersePoint Programs workspace with the Sunday Gathering service containing Amazing Grace, Psalms 23:1, John 3:16, and Gathered in Your Name. Psalms 23:1 is selected.",
+      "hotspots": [
+        {
+          "label": "Explore Scripture",
+          "rect": [
+            0.008333,
+            0.93894,
+            0.050694,
+            0.049539
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Explore Songs",
+          "rect": [
+            0.0625,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "lyrics-1"
+        },
+        {
+          "label": "Explore Programs",
+          "rect": [
+            0.118056,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "program"
+        },
+        {
+          "label": "Open Motion Studio",
+          "rect": [
+            0.875,
+            0.139401,
+            0.114583,
+            0.041475
+          ],
+          "target": "motion-dots"
+        },
+        {
+          "label": "Select Amazing Grace",
+          "rect": [
+            0.04375,
+            0.535714,
+            0.15625,
+            0.050691
+          ],
+          "target": "program-1"
+        },
+        {
+          "label": "Select Psalms 23:1",
+          "rect": [
+            0.04375,
+            0.601382,
+            0.15625,
+            0.050691
+          ],
+          "target": "program-2"
+        },
+        {
+          "label": "Select John 3:16",
+          "rect": [
+            0.04375,
+            0.667051,
+            0.15625,
+            0.050691
+          ],
+          "target": "program-3"
+        },
+        {
+          "label": "Select Gathered in Your Name",
+          "rect": [
+            0.04375,
+            0.732719,
+            0.15625,
+            0.050691
+          ],
+          "target": "program-4"
+        },
+        {
+          "label": "Collapse presentation tools",
+          "rect": [
+            0.967014,
+            0.013825,
+            0.024306,
+            0.040323
+          ],
+          "target": "tools-collapsed"
+        },
+        {
+          "label": "Open Style",
+          "rect": [
+            0.836458,
+            0.051267,
+            0.077778,
+            0.038018
+          ],
+          "target": "style-presets"
+        },
+        {
+          "label": "Open Settings",
+          "rect": [
+            0.967014,
+            0.939516,
+            0.024306,
+            0.047811
+          ],
+          "target": "settings-output"
+        }
+      ],
+      "focusRect": [
+        0,
+        0.3,
+        0.24,
+        0.64
+      ]
+    },
+    "program-3": {
+      "image": "assets/program-3.webp",
+      "title": "Programs \u00b7 Sunday Gathering \u00b7 John 3:16",
+      "alt": "Actual VersePoint Programs workspace with the Sunday Gathering service containing Amazing Grace, Psalms 23:1, John 3:16, and Gathered in Your Name. John 3:16 is selected.",
+      "hotspots": [
+        {
+          "label": "Explore Scripture",
+          "rect": [
+            0.008333,
+            0.93894,
+            0.050694,
+            0.049539
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Explore Songs",
+          "rect": [
+            0.0625,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "lyrics-1"
+        },
+        {
+          "label": "Explore Programs",
+          "rect": [
+            0.118056,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "program"
+        },
+        {
+          "label": "Open Motion Studio",
+          "rect": [
+            0.875,
+            0.139401,
+            0.114583,
+            0.041475
+          ],
+          "target": "motion-dots"
+        },
+        {
+          "label": "Select Amazing Grace",
+          "rect": [
+            0.04375,
+            0.535714,
+            0.15625,
+            0.050691
+          ],
+          "target": "program-1"
+        },
+        {
+          "label": "Select Psalms 23:1",
+          "rect": [
+            0.04375,
+            0.601382,
+            0.15625,
+            0.050691
+          ],
+          "target": "program-2"
+        },
+        {
+          "label": "Select John 3:16",
+          "rect": [
+            0.04375,
+            0.667051,
+            0.15625,
+            0.050691
+          ],
+          "target": "program-3"
+        },
+        {
+          "label": "Select Gathered in Your Name",
+          "rect": [
+            0.04375,
+            0.732719,
+            0.15625,
+            0.050691
+          ],
+          "target": "program-4"
+        },
+        {
+          "label": "Collapse presentation tools",
+          "rect": [
+            0.967014,
+            0.013825,
+            0.024306,
+            0.040323
+          ],
+          "target": "tools-collapsed"
+        },
+        {
+          "label": "Open Style",
+          "rect": [
+            0.836458,
+            0.051267,
+            0.077778,
+            0.038018
+          ],
+          "target": "style-presets"
+        },
+        {
+          "label": "Open Settings",
+          "rect": [
+            0.967014,
+            0.939516,
+            0.024306,
+            0.047811
+          ],
+          "target": "settings-output"
+        }
+      ],
+      "focusRect": [
+        0,
+        0.3,
+        0.24,
+        0.64
+      ]
+    },
+    "program-4": {
+      "image": "assets/program-4.webp",
+      "title": "Programs \u00b7 Sunday Gathering \u00b7 Gathered in Your Name",
+      "alt": "Actual VersePoint Programs workspace with the Sunday Gathering service containing Amazing Grace, Psalms 23:1, John 3:16, and Gathered in Your Name. Gathered in Your Name is selected.",
+      "hotspots": [
+        {
+          "label": "Explore Scripture",
+          "rect": [
+            0.008333,
+            0.93894,
+            0.050694,
+            0.049539
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Explore Songs",
+          "rect": [
+            0.0625,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "lyrics-1"
+        },
+        {
+          "label": "Explore Programs",
+          "rect": [
+            0.118056,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "program"
+        },
+        {
+          "label": "Open Motion Studio",
+          "rect": [
+            0.875,
+            0.139401,
+            0.114583,
+            0.041475
+          ],
+          "target": "motion-dots"
+        },
+        {
+          "label": "Select Amazing Grace",
+          "rect": [
+            0.04375,
+            0.535714,
+            0.15625,
+            0.050691
+          ],
+          "target": "program-1"
+        },
+        {
+          "label": "Select Psalms 23:1",
+          "rect": [
+            0.04375,
+            0.601382,
+            0.15625,
+            0.050691
+          ],
+          "target": "program-2"
+        },
+        {
+          "label": "Select John 3:16",
+          "rect": [
+            0.04375,
+            0.667051,
+            0.15625,
+            0.050691
+          ],
+          "target": "program-3"
+        },
+        {
+          "label": "Select Gathered in Your Name",
+          "rect": [
+            0.04375,
+            0.732719,
+            0.15625,
+            0.050691
+          ],
+          "target": "program-4"
+        },
+        {
+          "label": "Collapse presentation tools",
+          "rect": [
+            0.967014,
+            0.013825,
+            0.024306,
+            0.040323
+          ],
+          "target": "tools-collapsed"
+        },
+        {
+          "label": "Open Style",
+          "rect": [
+            0.836458,
+            0.051267,
+            0.077778,
+            0.038018
+          ],
+          "target": "style-presets"
+        },
+        {
+          "label": "Open Settings",
+          "rect": [
+            0.967014,
+            0.939516,
+            0.024306,
+            0.047811
+          ],
+          "target": "settings-output"
+        }
+      ],
+      "focusRect": [
+        0,
+        0.3,
+        0.24,
+        0.64
+      ]
+    },
+    "motion-dots": {
+      "image": "assets/motion-dots.webp",
+      "title": "Motion Studio \u00b7 Dots",
+      "alt": "Actual VersePoint Motion Studio with Dots selected, the design preview, motion controls, and Psalms 23 in the Scripture workspace.",
+      "hotspots": [
+        {
+          "label": "Explore Scripture",
+          "rect": [
+            0.008333,
+            0.93894,
+            0.050694,
+            0.049539
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Explore Songs",
+          "rect": [
+            0.0625,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "lyrics-1"
+        },
+        {
+          "label": "Explore Programs",
+          "rect": [
+            0.118056,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "program"
+        },
+        {
+          "label": "Motion Studio",
+          "rect": [
+            0.875,
+            0.139401,
+            0.114583,
+            0.041475
+          ],
+          "target": "motion-dots"
+        },
+        {
+          "label": "Return to Media",
+          "rect": [
+            0.763889,
+            0.099078,
+            0.109722,
+            0.037442
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Choose Motion Type",
+          "rect": [
+            0.8375,
+            0.607143,
+            0.140278,
+            0.041475
+          ],
+          "target": "motion-dots-menu"
+        },
+        {
+          "label": "Pause preview",
+          "rect": [
+            0.899306,
+            0.46371,
+            0.076389,
+            0.035138
+          ],
+          "target": "motion-dots-paused"
+        },
+        {
+          "label": "See Scripture on Fluid Terrain",
+          "rect": [
+            0.8375,
+            0.550691,
+            0.140278,
+            0.041475
+          ],
+          "target": "motion-fluid-text"
+        },
+        {
+          "label": "Collapse presentation tools",
+          "rect": [
+            0.967014,
+            0.013825,
+            0.024306,
+            0.040323
+          ],
+          "target": "tools-collapsed"
+        },
+        {
+          "label": "Open Style",
+          "rect": [
+            0.836458,
+            0.051267,
+            0.077778,
+            0.038018
+          ],
+          "target": "style-presets"
+        },
+        {
+          "label": "Open Settings",
+          "rect": [
+            0.967014,
+            0.939516,
+            0.024306,
+            0.047811
+          ],
+          "target": "settings-output"
+        }
+      ],
+      "animation": {
+        "src": "assets/motion-dots-animation.webp",
+        "rect": [
+          0.766319,
+          0.305876,
+          0.211111,
+          0.195853
+        ]
+      },
+      "focusRect": [
+        0.75,
+        0.1,
+        0.25,
+        0.61
+      ]
+    },
+    "motion-dots-paused": {
+      "image": "assets/motion-dots-paused.webp",
+      "title": "Motion Studio \u00b7 Dots \u00b7 Preview paused",
+      "alt": "Actual VersePoint Motion Studio with Dots selected, the design preview, motion controls, and Psalms 23 in the Scripture workspace. The design preview is paused.",
+      "hotspots": [
+        {
+          "label": "Explore Scripture",
+          "rect": [
+            0.008333,
+            0.93894,
+            0.050694,
+            0.049539
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Explore Songs",
+          "rect": [
+            0.0625,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "lyrics-1"
+        },
+        {
+          "label": "Explore Programs",
+          "rect": [
+            0.118056,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "program"
+        },
+        {
+          "label": "Motion Studio",
+          "rect": [
+            0.875,
+            0.139401,
+            0.114583,
+            0.041475
+          ],
+          "target": "motion-dots"
+        },
+        {
+          "label": "Return to Media",
+          "rect": [
+            0.763889,
+            0.099078,
+            0.109722,
+            0.037442
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Choose Motion Type",
+          "rect": [
+            0.8375,
+            0.607143,
+            0.140278,
+            0.041475
+          ],
+          "target": "motion-dots-menu"
+        },
+        {
+          "label": "Resume preview",
+          "rect": [
+            0.899306,
+            0.46371,
+            0.076389,
+            0.035138
+          ],
+          "target": "motion-dots"
+        },
+        {
+          "label": "See Scripture on Fluid Terrain",
+          "rect": [
+            0.8375,
+            0.550691,
+            0.140278,
+            0.041475
+          ],
+          "target": "motion-fluid-text"
+        },
+        {
+          "label": "Collapse presentation tools",
+          "rect": [
+            0.967014,
+            0.013825,
+            0.024306,
+            0.040323
+          ],
+          "target": "tools-collapsed"
+        },
+        {
+          "label": "Open Style",
+          "rect": [
+            0.836458,
+            0.051267,
+            0.077778,
+            0.038018
+          ],
+          "target": "style-presets"
+        },
+        {
+          "label": "Open Settings",
+          "rect": [
+            0.967014,
+            0.939516,
+            0.024306,
+            0.047811
+          ],
+          "target": "settings-output"
+        }
+      ],
+      "focusRect": [
+        0.75,
+        0.1,
+        0.25,
+        0.61
+      ]
+    },
+    "motion-dots-menu": {
+      "image": "assets/motion-dots-menu.webp",
+      "title": "Motion Studio \u00b7 Choose a motion type \u00b7 Dots",
+      "alt": "Actual VersePoint Motion Type dropdown with Dots, Water Flow, Rain, Snow, and Fluid Terrain options; Dots is selected.",
+      "hotspots": [
+        {
+          "label": "Explore Scripture",
+          "rect": [
+            0.008333,
+            0.93894,
+            0.050694,
+            0.049539
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Explore Songs",
+          "rect": [
+            0.0625,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "lyrics-1"
+        },
+        {
+          "label": "Explore Programs",
+          "rect": [
+            0.118056,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "program"
+        },
+        {
+          "label": "Motion Studio",
+          "rect": [
+            0.875,
+            0.139401,
+            0.114583,
+            0.041475
+          ],
+          "target": "motion-dots"
+        },
+        {
+          "label": "Return to Media",
+          "rect": [
+            0.763889,
+            0.099078,
+            0.109722,
+            0.037442
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Close Motion Type menu",
+          "rect": [
+            0.970833,
+            0.607143,
+            0.008333,
+            0.041475
+          ],
+          "target": "motion-dots"
+        },
+        {
+          "label": "Choose Dots",
+          "rect": [
+            0.833333,
+            0.607143,
+            0.134028,
+            0.025346
+          ],
+          "target": "motion-dots"
+        },
+        {
+          "label": "Choose Water Flow",
+          "rect": [
+            0.833333,
+            0.634793,
+            0.134028,
+            0.025346
+          ],
+          "target": "motion-water"
+        },
+        {
+          "label": "Choose Rain",
+          "rect": [
+            0.833333,
+            0.662442,
+            0.134028,
+            0.025346
+          ],
+          "target": "motion-rain"
+        },
+        {
+          "label": "Choose Snow",
+          "rect": [
+            0.833333,
+            0.690092,
+            0.134028,
+            0.025346
+          ],
+          "target": "motion-snow"
+        },
+        {
+          "label": "Choose Fluid Terrain",
+          "rect": [
+            0.833333,
+            0.717742,
+            0.134028,
+            0.025346
+          ],
+          "target": "motion-fluid"
+        }
+      ],
+      "focusRect": [
+        0.75,
+        0.1,
+        0.25,
+        0.61
+      ]
+    },
+    "motion-water": {
+      "image": "assets/motion-water.webp",
+      "title": "Motion Studio \u00b7 Water Flow",
+      "alt": "Actual VersePoint Motion Studio with Water Flow selected, the design preview, motion controls, and Psalms 23 in the Scripture workspace.",
+      "hotspots": [
+        {
+          "label": "Explore Scripture",
+          "rect": [
+            0.008333,
+            0.93894,
+            0.050694,
+            0.049539
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Explore Songs",
+          "rect": [
+            0.0625,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "lyrics-1"
+        },
+        {
+          "label": "Explore Programs",
+          "rect": [
+            0.118056,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "program"
+        },
+        {
+          "label": "Motion Studio",
+          "rect": [
+            0.875,
+            0.139401,
+            0.114583,
+            0.041475
+          ],
+          "target": "motion-water"
+        },
+        {
+          "label": "Return to Media",
+          "rect": [
+            0.763889,
+            0.099078,
+            0.109722,
+            0.037442
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Choose Motion Type",
+          "rect": [
+            0.8375,
+            0.607143,
+            0.140278,
+            0.041475
+          ],
+          "target": "motion-water-menu"
+        },
+        {
+          "label": "Pause preview",
+          "rect": [
+            0.899306,
+            0.46371,
+            0.076389,
+            0.035138
+          ],
+          "target": "motion-water-paused"
+        },
+        {
+          "label": "See Scripture on Fluid Terrain",
+          "rect": [
+            0.8375,
+            0.550691,
+            0.140278,
+            0.041475
+          ],
+          "target": "motion-fluid-text"
+        },
+        {
+          "label": "Collapse presentation tools",
+          "rect": [
+            0.967014,
+            0.013825,
+            0.024306,
+            0.040323
+          ],
+          "target": "tools-collapsed"
+        },
+        {
+          "label": "Open Style",
+          "rect": [
+            0.836458,
+            0.051267,
+            0.077778,
+            0.038018
+          ],
+          "target": "style-presets"
+        },
+        {
+          "label": "Open Settings",
+          "rect": [
+            0.967014,
+            0.939516,
+            0.024306,
+            0.047811
+          ],
+          "target": "settings-output"
+        }
+      ],
+      "animation": {
+        "src": "assets/motion-water-animation.webp",
+        "rect": [
+          0.766319,
+          0.305876,
+          0.211111,
+          0.195853
+        ]
+      },
+      "focusRect": [
+        0.75,
+        0.1,
+        0.25,
+        0.61
+      ]
+    },
+    "motion-water-paused": {
+      "image": "assets/motion-water-paused.webp",
+      "title": "Motion Studio \u00b7 Water Flow \u00b7 Preview paused",
+      "alt": "Actual VersePoint Motion Studio with Water Flow selected, the design preview, motion controls, and Psalms 23 in the Scripture workspace. The design preview is paused.",
+      "hotspots": [
+        {
+          "label": "Explore Scripture",
+          "rect": [
+            0.008333,
+            0.93894,
+            0.050694,
+            0.049539
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Explore Songs",
+          "rect": [
+            0.0625,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "lyrics-1"
+        },
+        {
+          "label": "Explore Programs",
+          "rect": [
+            0.118056,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "program"
+        },
+        {
+          "label": "Motion Studio",
+          "rect": [
+            0.875,
+            0.139401,
+            0.114583,
+            0.041475
+          ],
+          "target": "motion-water"
+        },
+        {
+          "label": "Return to Media",
+          "rect": [
+            0.763889,
+            0.099078,
+            0.109722,
+            0.037442
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Choose Motion Type",
+          "rect": [
+            0.8375,
+            0.607143,
+            0.140278,
+            0.041475
+          ],
+          "target": "motion-water-menu"
+        },
+        {
+          "label": "Resume preview",
+          "rect": [
+            0.899306,
+            0.46371,
+            0.076389,
+            0.035138
+          ],
+          "target": "motion-water"
+        },
+        {
+          "label": "See Scripture on Fluid Terrain",
+          "rect": [
+            0.8375,
+            0.550691,
+            0.140278,
+            0.041475
+          ],
+          "target": "motion-fluid-text"
+        },
+        {
+          "label": "Collapse presentation tools",
+          "rect": [
+            0.967014,
+            0.013825,
+            0.024306,
+            0.040323
+          ],
+          "target": "tools-collapsed"
+        },
+        {
+          "label": "Open Style",
+          "rect": [
+            0.836458,
+            0.051267,
+            0.077778,
+            0.038018
+          ],
+          "target": "style-presets"
+        },
+        {
+          "label": "Open Settings",
+          "rect": [
+            0.967014,
+            0.939516,
+            0.024306,
+            0.047811
+          ],
+          "target": "settings-output"
+        }
+      ],
+      "focusRect": [
+        0.75,
+        0.1,
+        0.25,
+        0.61
+      ]
+    },
+    "motion-water-menu": {
+      "image": "assets/motion-water-menu.webp",
+      "title": "Motion Studio \u00b7 Choose a motion type \u00b7 Water Flow",
+      "alt": "Actual VersePoint Motion Type dropdown with Dots, Water Flow, Rain, Snow, and Fluid Terrain options; Water Flow is selected.",
+      "hotspots": [
+        {
+          "label": "Explore Scripture",
+          "rect": [
+            0.008333,
+            0.93894,
+            0.050694,
+            0.049539
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Explore Songs",
+          "rect": [
+            0.0625,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "lyrics-1"
+        },
+        {
+          "label": "Explore Programs",
+          "rect": [
+            0.118056,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "program"
+        },
+        {
+          "label": "Motion Studio",
+          "rect": [
+            0.875,
+            0.139401,
+            0.114583,
+            0.041475
+          ],
+          "target": "motion-water"
+        },
+        {
+          "label": "Return to Media",
+          "rect": [
+            0.763889,
+            0.099078,
+            0.109722,
+            0.037442
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Close Motion Type menu",
+          "rect": [
+            0.970833,
+            0.607143,
+            0.008333,
+            0.041475
+          ],
+          "target": "motion-water"
+        },
+        {
+          "label": "Choose Dots",
+          "rect": [
+            0.833333,
+            0.579493,
+            0.134028,
+            0.025346
+          ],
+          "target": "motion-dots"
+        },
+        {
+          "label": "Choose Water Flow",
+          "rect": [
+            0.833333,
+            0.607143,
+            0.134028,
+            0.025346
+          ],
+          "target": "motion-water"
+        },
+        {
+          "label": "Choose Rain",
+          "rect": [
+            0.833333,
+            0.634793,
+            0.134028,
+            0.025346
+          ],
+          "target": "motion-rain"
+        },
+        {
+          "label": "Choose Snow",
+          "rect": [
+            0.833333,
+            0.662442,
+            0.134028,
+            0.025346
+          ],
+          "target": "motion-snow"
+        },
+        {
+          "label": "Choose Fluid Terrain",
+          "rect": [
+            0.833333,
+            0.690092,
+            0.134028,
+            0.025346
+          ],
+          "target": "motion-fluid"
+        }
+      ],
+      "focusRect": [
+        0.75,
+        0.1,
+        0.25,
+        0.61
+      ]
+    },
+    "motion-rain": {
+      "image": "assets/motion-rain.webp",
+      "title": "Motion Studio \u00b7 Rain",
+      "alt": "Actual VersePoint Motion Studio with Rain selected, the design preview, motion controls, and Psalms 23 in the Scripture workspace.",
+      "hotspots": [
+        {
+          "label": "Explore Scripture",
+          "rect": [
+            0.008333,
+            0.93894,
+            0.050694,
+            0.049539
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Explore Songs",
+          "rect": [
+            0.0625,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "lyrics-1"
+        },
+        {
+          "label": "Explore Programs",
+          "rect": [
+            0.118056,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "program"
+        },
+        {
+          "label": "Motion Studio",
+          "rect": [
+            0.875,
+            0.139401,
+            0.114583,
+            0.041475
+          ],
+          "target": "motion-rain"
+        },
+        {
+          "label": "Return to Media",
+          "rect": [
+            0.763889,
+            0.099078,
+            0.109722,
+            0.037442
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Choose Motion Type",
+          "rect": [
+            0.8375,
+            0.607143,
+            0.140278,
+            0.041475
+          ],
+          "target": "motion-rain-menu"
+        },
+        {
+          "label": "Pause preview",
+          "rect": [
+            0.899306,
+            0.46371,
+            0.076389,
+            0.035138
+          ],
+          "target": "motion-rain-paused"
+        },
+        {
+          "label": "See Scripture on Fluid Terrain",
+          "rect": [
+            0.8375,
+            0.550691,
+            0.140278,
+            0.041475
+          ],
+          "target": "motion-fluid-text"
+        },
+        {
+          "label": "Collapse presentation tools",
+          "rect": [
+            0.967014,
+            0.013825,
+            0.024306,
+            0.040323
+          ],
+          "target": "tools-collapsed"
+        },
+        {
+          "label": "Open Style",
+          "rect": [
+            0.836458,
+            0.051267,
+            0.077778,
+            0.038018
+          ],
+          "target": "style-presets"
+        },
+        {
+          "label": "Open Settings",
+          "rect": [
+            0.967014,
+            0.939516,
+            0.024306,
+            0.047811
+          ],
+          "target": "settings-output"
+        }
+      ],
+      "animation": {
+        "src": "assets/motion-rain-animation.webp",
+        "rect": [
+          0.766319,
+          0.305876,
+          0.211111,
+          0.195853
+        ]
+      },
+      "focusRect": [
+        0.75,
+        0.1,
+        0.25,
+        0.61
+      ]
+    },
+    "motion-rain-paused": {
+      "image": "assets/motion-rain-paused.webp",
+      "title": "Motion Studio \u00b7 Rain \u00b7 Preview paused",
+      "alt": "Actual VersePoint Motion Studio with Rain selected, the design preview, motion controls, and Psalms 23 in the Scripture workspace. The design preview is paused.",
+      "hotspots": [
+        {
+          "label": "Explore Scripture",
+          "rect": [
+            0.008333,
+            0.93894,
+            0.050694,
+            0.049539
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Explore Songs",
+          "rect": [
+            0.0625,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "lyrics-1"
+        },
+        {
+          "label": "Explore Programs",
+          "rect": [
+            0.118056,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "program"
+        },
+        {
+          "label": "Motion Studio",
+          "rect": [
+            0.875,
+            0.139401,
+            0.114583,
+            0.041475
+          ],
+          "target": "motion-rain"
+        },
+        {
+          "label": "Return to Media",
+          "rect": [
+            0.763889,
+            0.099078,
+            0.109722,
+            0.037442
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Choose Motion Type",
+          "rect": [
+            0.8375,
+            0.607143,
+            0.140278,
+            0.041475
+          ],
+          "target": "motion-rain-menu"
+        },
+        {
+          "label": "Resume preview",
+          "rect": [
+            0.899306,
+            0.46371,
+            0.076389,
+            0.035138
+          ],
+          "target": "motion-rain"
+        },
+        {
+          "label": "See Scripture on Fluid Terrain",
+          "rect": [
+            0.8375,
+            0.550691,
+            0.140278,
+            0.041475
+          ],
+          "target": "motion-fluid-text"
+        },
+        {
+          "label": "Collapse presentation tools",
+          "rect": [
+            0.967014,
+            0.013825,
+            0.024306,
+            0.040323
+          ],
+          "target": "tools-collapsed"
+        },
+        {
+          "label": "Open Style",
+          "rect": [
+            0.836458,
+            0.051267,
+            0.077778,
+            0.038018
+          ],
+          "target": "style-presets"
+        },
+        {
+          "label": "Open Settings",
+          "rect": [
+            0.967014,
+            0.939516,
+            0.024306,
+            0.047811
+          ],
+          "target": "settings-output"
+        }
+      ],
+      "focusRect": [
+        0.75,
+        0.1,
+        0.25,
+        0.61
+      ]
+    },
+    "motion-rain-menu": {
+      "image": "assets/motion-rain-menu.webp",
+      "title": "Motion Studio \u00b7 Choose a motion type \u00b7 Rain",
+      "alt": "Actual VersePoint Motion Type dropdown with Dots, Water Flow, Rain, Snow, and Fluid Terrain options; Rain is selected.",
+      "hotspots": [
+        {
+          "label": "Explore Scripture",
+          "rect": [
+            0.008333,
+            0.93894,
+            0.050694,
+            0.049539
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Explore Songs",
+          "rect": [
+            0.0625,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "lyrics-1"
+        },
+        {
+          "label": "Explore Programs",
+          "rect": [
+            0.118056,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "program"
+        },
+        {
+          "label": "Motion Studio",
+          "rect": [
+            0.875,
+            0.139401,
+            0.114583,
+            0.041475
+          ],
+          "target": "motion-rain"
+        },
+        {
+          "label": "Return to Media",
+          "rect": [
+            0.763889,
+            0.099078,
+            0.109722,
+            0.037442
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Close Motion Type menu",
+          "rect": [
+            0.970833,
+            0.607143,
+            0.008333,
+            0.041475
+          ],
+          "target": "motion-rain"
+        },
+        {
+          "label": "Choose Dots",
+          "rect": [
+            0.833333,
+            0.551843,
+            0.134028,
+            0.025346
+          ],
+          "target": "motion-dots"
+        },
+        {
+          "label": "Choose Water Flow",
+          "rect": [
+            0.833333,
+            0.579493,
+            0.134028,
+            0.025346
+          ],
+          "target": "motion-water"
+        },
+        {
+          "label": "Choose Rain",
+          "rect": [
+            0.833333,
+            0.607143,
+            0.134028,
+            0.025346
+          ],
+          "target": "motion-rain"
+        },
+        {
+          "label": "Choose Snow",
+          "rect": [
+            0.833333,
+            0.634793,
+            0.134028,
+            0.025346
+          ],
+          "target": "motion-snow"
+        },
+        {
+          "label": "Choose Fluid Terrain",
+          "rect": [
+            0.833333,
+            0.662442,
+            0.134028,
+            0.025346
+          ],
+          "target": "motion-fluid"
+        }
+      ],
+      "focusRect": [
+        0.75,
+        0.1,
+        0.25,
+        0.61
+      ]
+    },
+    "motion-snow": {
+      "image": "assets/motion-snow.webp",
+      "title": "Motion Studio \u00b7 Snow",
+      "alt": "Actual VersePoint Motion Studio with Snow selected, the design preview, motion controls, and Psalms 23 in the Scripture workspace.",
+      "hotspots": [
+        {
+          "label": "Explore Scripture",
+          "rect": [
+            0.008333,
+            0.93894,
+            0.050694,
+            0.049539
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Explore Songs",
+          "rect": [
+            0.0625,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "lyrics-1"
+        },
+        {
+          "label": "Explore Programs",
+          "rect": [
+            0.118056,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "program"
+        },
+        {
+          "label": "Motion Studio",
+          "rect": [
+            0.875,
+            0.139401,
+            0.114583,
+            0.041475
+          ],
+          "target": "motion-snow"
+        },
+        {
+          "label": "Return to Media",
+          "rect": [
+            0.763889,
+            0.099078,
+            0.109722,
+            0.037442
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Choose Motion Type",
+          "rect": [
+            0.8375,
+            0.607143,
+            0.140278,
+            0.041475
+          ],
+          "target": "motion-snow-menu"
+        },
+        {
+          "label": "Pause preview",
+          "rect": [
+            0.899306,
+            0.46371,
+            0.076389,
+            0.035138
+          ],
+          "target": "motion-snow-paused"
+        },
+        {
+          "label": "See Scripture on Fluid Terrain",
+          "rect": [
+            0.8375,
+            0.550691,
+            0.140278,
+            0.041475
+          ],
+          "target": "motion-fluid-text"
+        },
+        {
+          "label": "Collapse presentation tools",
+          "rect": [
+            0.967014,
+            0.013825,
+            0.024306,
+            0.040323
+          ],
+          "target": "tools-collapsed"
+        },
+        {
+          "label": "Open Style",
+          "rect": [
+            0.836458,
+            0.051267,
+            0.077778,
+            0.038018
+          ],
+          "target": "style-presets"
+        },
+        {
+          "label": "Open Settings",
+          "rect": [
+            0.967014,
+            0.939516,
+            0.024306,
+            0.047811
+          ],
+          "target": "settings-output"
+        }
+      ],
+      "animation": {
+        "src": "assets/motion-snow-animation.webp",
+        "rect": [
+          0.766319,
+          0.305876,
+          0.211111,
+          0.195853
+        ]
+      },
+      "focusRect": [
+        0.75,
+        0.1,
+        0.25,
+        0.61
+      ]
+    },
+    "motion-snow-paused": {
+      "image": "assets/motion-snow-paused.webp",
+      "title": "Motion Studio \u00b7 Snow \u00b7 Preview paused",
+      "alt": "Actual VersePoint Motion Studio with Snow selected, the design preview, motion controls, and Psalms 23 in the Scripture workspace. The design preview is paused.",
+      "hotspots": [
+        {
+          "label": "Explore Scripture",
+          "rect": [
+            0.008333,
+            0.93894,
+            0.050694,
+            0.049539
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Explore Songs",
+          "rect": [
+            0.0625,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "lyrics-1"
+        },
+        {
+          "label": "Explore Programs",
+          "rect": [
+            0.118056,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "program"
+        },
+        {
+          "label": "Motion Studio",
+          "rect": [
+            0.875,
+            0.139401,
+            0.114583,
+            0.041475
+          ],
+          "target": "motion-snow"
+        },
+        {
+          "label": "Return to Media",
+          "rect": [
+            0.763889,
+            0.099078,
+            0.109722,
+            0.037442
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Choose Motion Type",
+          "rect": [
+            0.8375,
+            0.607143,
+            0.140278,
+            0.041475
+          ],
+          "target": "motion-snow-menu"
+        },
+        {
+          "label": "Resume preview",
+          "rect": [
+            0.899306,
+            0.46371,
+            0.076389,
+            0.035138
+          ],
+          "target": "motion-snow"
+        },
+        {
+          "label": "See Scripture on Fluid Terrain",
+          "rect": [
+            0.8375,
+            0.550691,
+            0.140278,
+            0.041475
+          ],
+          "target": "motion-fluid-text"
+        },
+        {
+          "label": "Collapse presentation tools",
+          "rect": [
+            0.967014,
+            0.013825,
+            0.024306,
+            0.040323
+          ],
+          "target": "tools-collapsed"
+        },
+        {
+          "label": "Open Style",
+          "rect": [
+            0.836458,
+            0.051267,
+            0.077778,
+            0.038018
+          ],
+          "target": "style-presets"
+        },
+        {
+          "label": "Open Settings",
+          "rect": [
+            0.967014,
+            0.939516,
+            0.024306,
+            0.047811
+          ],
+          "target": "settings-output"
+        }
+      ],
+      "focusRect": [
+        0.75,
+        0.1,
+        0.25,
+        0.61
+      ]
+    },
+    "motion-snow-menu": {
+      "image": "assets/motion-snow-menu.webp",
+      "title": "Motion Studio \u00b7 Choose a motion type \u00b7 Snow",
+      "alt": "Actual VersePoint Motion Type dropdown with Dots, Water Flow, Rain, Snow, and Fluid Terrain options; Snow is selected.",
+      "hotspots": [
+        {
+          "label": "Explore Scripture",
+          "rect": [
+            0.008333,
+            0.93894,
+            0.050694,
+            0.049539
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Explore Songs",
+          "rect": [
+            0.0625,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "lyrics-1"
+        },
+        {
+          "label": "Explore Programs",
+          "rect": [
+            0.118056,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "program"
+        },
+        {
+          "label": "Motion Studio",
+          "rect": [
+            0.875,
+            0.139401,
+            0.114583,
+            0.041475
+          ],
+          "target": "motion-snow"
+        },
+        {
+          "label": "Return to Media",
+          "rect": [
+            0.763889,
+            0.099078,
+            0.109722,
+            0.037442
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Close Motion Type menu",
+          "rect": [
+            0.970833,
+            0.607143,
+            0.008333,
+            0.041475
+          ],
+          "target": "motion-snow"
+        },
+        {
+          "label": "Choose Dots",
+          "rect": [
+            0.833333,
+            0.524194,
+            0.134028,
+            0.025346
+          ],
+          "target": "motion-dots"
+        },
+        {
+          "label": "Choose Water Flow",
+          "rect": [
+            0.833333,
+            0.551843,
+            0.134028,
+            0.025346
+          ],
+          "target": "motion-water"
+        },
+        {
+          "label": "Choose Rain",
+          "rect": [
+            0.833333,
+            0.579493,
+            0.134028,
+            0.025346
+          ],
+          "target": "motion-rain"
+        },
+        {
+          "label": "Choose Snow",
+          "rect": [
+            0.833333,
+            0.607143,
+            0.134028,
+            0.025346
+          ],
+          "target": "motion-snow"
+        },
+        {
+          "label": "Choose Fluid Terrain",
+          "rect": [
+            0.833333,
+            0.634793,
+            0.134028,
+            0.025346
+          ],
+          "target": "motion-fluid"
+        }
+      ],
+      "focusRect": [
+        0.75,
+        0.1,
+        0.25,
+        0.61
+      ]
+    },
+    "motion-fluid": {
+      "image": "assets/motion-fluid.webp",
+      "title": "Motion Studio \u00b7 Fluid Terrain",
+      "alt": "Actual VersePoint Motion Studio with Fluid Terrain selected, the design preview, motion controls, and Psalms 23 in the Scripture workspace.",
+      "hotspots": [
+        {
+          "label": "Explore Scripture",
+          "rect": [
+            0.008333,
+            0.93894,
+            0.050694,
+            0.049539
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Explore Songs",
+          "rect": [
+            0.0625,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "lyrics-1"
+        },
+        {
+          "label": "Explore Programs",
+          "rect": [
+            0.118056,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "program"
+        },
+        {
+          "label": "Motion Studio",
+          "rect": [
+            0.875,
+            0.139401,
+            0.114583,
+            0.041475
+          ],
+          "target": "motion-fluid"
+        },
+        {
+          "label": "Return to Media",
+          "rect": [
+            0.763889,
+            0.099078,
+            0.109722,
+            0.037442
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Choose Motion Type",
+          "rect": [
+            0.8375,
+            0.607143,
+            0.140278,
+            0.041475
+          ],
+          "target": "motion-fluid-menu"
+        },
+        {
+          "label": "Pause preview",
+          "rect": [
+            0.899306,
+            0.46371,
+            0.076389,
+            0.035138
+          ],
+          "target": "motion-fluid-paused"
+        },
+        {
+          "label": "Choose Scripture sample text",
+          "rect": [
+            0.8375,
+            0.550691,
+            0.140278,
+            0.041475
+          ],
+          "target": "motion-text-menu"
+        },
+        {
+          "label": "Collapse presentation tools",
+          "rect": [
+            0.967014,
+            0.013825,
+            0.024306,
+            0.040323
+          ],
+          "target": "tools-collapsed"
+        },
+        {
+          "label": "Open Style",
+          "rect": [
+            0.836458,
+            0.051267,
+            0.077778,
+            0.038018
+          ],
+          "target": "style-presets"
+        },
+        {
+          "label": "Open Settings",
+          "rect": [
+            0.967014,
+            0.939516,
+            0.024306,
+            0.047811
+          ],
+          "target": "settings-output"
+        }
+      ],
+      "animation": {
+        "src": "assets/motion-fluid-animation.webp",
+        "rect": [
+          0.766319,
+          0.305876,
+          0.211111,
+          0.195853
+        ]
+      },
+      "focusRect": [
+        0.75,
+        0.1,
+        0.25,
+        0.61
+      ]
+    },
+    "motion-fluid-paused": {
+      "image": "assets/motion-fluid-paused.webp",
+      "title": "Motion Studio \u00b7 Fluid Terrain \u00b7 Preview paused",
+      "alt": "Actual VersePoint Motion Studio with Fluid Terrain selected, the design preview, motion controls, and Psalms 23 in the Scripture workspace. The design preview is paused.",
+      "hotspots": [
+        {
+          "label": "Explore Scripture",
+          "rect": [
+            0.008333,
+            0.93894,
+            0.050694,
+            0.049539
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Explore Songs",
+          "rect": [
+            0.0625,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "lyrics-1"
+        },
+        {
+          "label": "Explore Programs",
+          "rect": [
+            0.118056,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "program"
+        },
+        {
+          "label": "Motion Studio",
+          "rect": [
+            0.875,
+            0.139401,
+            0.114583,
+            0.041475
+          ],
+          "target": "motion-fluid"
+        },
+        {
+          "label": "Return to Media",
+          "rect": [
+            0.763889,
+            0.099078,
+            0.109722,
+            0.037442
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Choose Motion Type",
+          "rect": [
+            0.8375,
+            0.607143,
+            0.140278,
+            0.041475
+          ],
+          "target": "motion-fluid-menu"
+        },
+        {
+          "label": "Resume preview",
+          "rect": [
+            0.899306,
+            0.46371,
+            0.076389,
+            0.035138
+          ],
+          "target": "motion-fluid"
+        },
+        {
+          "label": "Choose Scripture sample text",
+          "rect": [
+            0.8375,
+            0.550691,
+            0.140278,
+            0.041475
+          ],
+          "target": "motion-text-menu"
+        },
+        {
+          "label": "Collapse presentation tools",
+          "rect": [
+            0.967014,
+            0.013825,
+            0.024306,
+            0.040323
+          ],
+          "target": "tools-collapsed"
+        },
+        {
+          "label": "Open Style",
+          "rect": [
+            0.836458,
+            0.051267,
+            0.077778,
+            0.038018
+          ],
+          "target": "style-presets"
+        },
+        {
+          "label": "Open Settings",
+          "rect": [
+            0.967014,
+            0.939516,
+            0.024306,
+            0.047811
+          ],
+          "target": "settings-output"
+        }
+      ],
+      "focusRect": [
+        0.75,
+        0.1,
+        0.25,
+        0.61
+      ]
+    },
+    "motion-fluid-menu": {
+      "image": "assets/motion-fluid-menu.webp",
+      "title": "Motion Studio \u00b7 Choose a motion type \u00b7 Fluid Terrain",
+      "alt": "Actual VersePoint Motion Type dropdown with Dots, Water Flow, Rain, Snow, and Fluid Terrain options; Fluid Terrain is selected.",
+      "hotspots": [
+        {
+          "label": "Explore Scripture",
+          "rect": [
+            0.008333,
+            0.93894,
+            0.050694,
+            0.049539
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Explore Songs",
+          "rect": [
+            0.0625,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "lyrics-1"
+        },
+        {
+          "label": "Explore Programs",
+          "rect": [
+            0.118056,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "program"
+        },
+        {
+          "label": "Motion Studio",
+          "rect": [
+            0.875,
+            0.139401,
+            0.114583,
+            0.041475
+          ],
+          "target": "motion-fluid"
+        },
+        {
+          "label": "Return to Media",
+          "rect": [
+            0.763889,
+            0.099078,
+            0.109722,
+            0.037442
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Close Motion Type menu",
+          "rect": [
+            0.970833,
+            0.607143,
+            0.008333,
+            0.041475
+          ],
+          "target": "motion-fluid"
+        },
+        {
+          "label": "Choose Dots",
+          "rect": [
+            0.833333,
+            0.496544,
+            0.134028,
+            0.025346
+          ],
+          "target": "motion-dots"
+        },
+        {
+          "label": "Choose Water Flow",
+          "rect": [
+            0.833333,
+            0.524194,
+            0.134028,
+            0.025346
+          ],
+          "target": "motion-water"
+        },
+        {
+          "label": "Choose Rain",
+          "rect": [
+            0.833333,
+            0.551843,
+            0.134028,
+            0.025346
+          ],
+          "target": "motion-rain"
+        },
+        {
+          "label": "Choose Snow",
+          "rect": [
+            0.833333,
+            0.579493,
+            0.134028,
+            0.025346
+          ],
+          "target": "motion-snow"
+        },
+        {
+          "label": "Choose Fluid Terrain",
+          "rect": [
+            0.833333,
+            0.607143,
+            0.134028,
+            0.025346
+          ],
+          "target": "motion-fluid"
+        }
+      ],
+      "focusRect": [
+        0.75,
+        0.1,
+        0.25,
+        0.61
+      ]
+    },
+    "motion-fluid-text": {
+      "image": "assets/motion-fluid-text.webp",
+      "title": "Motion Studio \u00b7 Fluid Terrain \u00b7 Scripture sample",
+      "alt": "Actual VersePoint Motion Studio showing the Scripture sample \u201cThe LORD is my shepherd; I shall not want\u201d over Fluid Terrain in its design preview.",
+      "hotspots": [
+        {
+          "label": "Explore Scripture",
+          "rect": [
+            0.008333,
+            0.93894,
+            0.050694,
+            0.049539
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Explore Songs",
+          "rect": [
+            0.0625,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "lyrics-1"
+        },
+        {
+          "label": "Explore Programs",
+          "rect": [
+            0.118056,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "program"
+        },
+        {
+          "label": "Motion Studio",
+          "rect": [
+            0.875,
+            0.139401,
+            0.114583,
+            0.041475
+          ],
+          "target": "motion-fluid"
+        },
+        {
+          "label": "Return to Media",
+          "rect": [
+            0.763889,
+            0.099078,
+            0.109722,
+            0.037442
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Choose Motion Type",
+          "rect": [
+            0.8375,
+            0.651498,
+            0.140278,
+            0.041475
+          ],
+          "target": "motion-fluid-menu"
+        },
+        {
+          "label": "Pause preview",
+          "rect": [
+            0.899306,
+            0.46371,
+            0.076389,
+            0.035138
+          ],
+          "target": "motion-fluid-text-paused"
+        },
+        {
+          "label": "Turn sample text off",
+          "rect": [
+            0.8375,
+            0.550691,
+            0.140278,
+            0.041475
+          ],
+          "target": "motion-fluid"
+        },
+        {
+          "label": "Collapse presentation tools",
+          "rect": [
+            0.967014,
+            0.013825,
+            0.024306,
+            0.040323
+          ],
+          "target": "tools-collapsed"
+        },
+        {
+          "label": "Open Style",
+          "rect": [
+            0.836458,
+            0.051267,
+            0.077778,
+            0.038018
+          ],
+          "target": "style-presets"
+        },
+        {
+          "label": "Open Settings",
+          "rect": [
+            0.967014,
+            0.939516,
+            0.024306,
+            0.047811
+          ],
+          "target": "settings-output"
+        }
+      ],
+      "animation": {
+        "src": "assets/motion-fluid-text-animation.webp",
+        "rect": [
+          0.766319,
+          0.305876,
+          0.211111,
+          0.195853
+        ]
+      },
+      "focusRect": [
+        0.75,
+        0.1,
+        0.25,
+        0.61
+      ]
+    },
+    "motion-fluid-text-paused": {
+      "image": "assets/motion-fluid-text-paused.webp",
+      "title": "Motion Studio \u00b7 Fluid Terrain \u00b7 Scripture sample \u00b7 Preview paused",
+      "alt": "Actual VersePoint Motion Studio showing the Scripture sample \u201cThe LORD is my shepherd; I shall not want\u201d over Fluid Terrain in its design preview. The design preview is paused.",
+      "hotspots": [
+        {
+          "label": "Explore Scripture",
+          "rect": [
+            0.008333,
+            0.93894,
+            0.050694,
+            0.049539
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Explore Songs",
+          "rect": [
+            0.0625,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "lyrics-1"
+        },
+        {
+          "label": "Explore Programs",
+          "rect": [
+            0.118056,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "program"
+        },
+        {
+          "label": "Motion Studio",
+          "rect": [
+            0.875,
+            0.139401,
+            0.114583,
+            0.041475
+          ],
+          "target": "motion-fluid"
+        },
+        {
+          "label": "Return to Media",
+          "rect": [
+            0.763889,
+            0.099078,
+            0.109722,
+            0.037442
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Choose Motion Type",
+          "rect": [
+            0.8375,
+            0.651498,
+            0.140278,
+            0.041475
+          ],
+          "target": "motion-fluid-menu"
+        },
+        {
+          "label": "Resume preview",
+          "rect": [
+            0.899306,
+            0.46371,
+            0.076389,
+            0.035138
+          ],
+          "target": "motion-fluid-text"
+        },
+        {
+          "label": "Turn sample text off",
+          "rect": [
+            0.8375,
+            0.550691,
+            0.140278,
+            0.041475
+          ],
+          "target": "motion-fluid"
+        },
+        {
+          "label": "Collapse presentation tools",
+          "rect": [
+            0.967014,
+            0.013825,
+            0.024306,
+            0.040323
+          ],
+          "target": "tools-collapsed"
+        },
+        {
+          "label": "Open Style",
+          "rect": [
+            0.836458,
+            0.051267,
+            0.077778,
+            0.038018
+          ],
+          "target": "style-presets"
+        },
+        {
+          "label": "Open Settings",
+          "rect": [
+            0.967014,
+            0.939516,
+            0.024306,
+            0.047811
+          ],
+          "target": "settings-output"
+        }
+      ],
+      "focusRect": [
+        0.75,
+        0.1,
+        0.25,
+        0.61
+      ]
+    },
+    "motion-text-menu": {
+      "image": "assets/motion-text-menu.webp",
+      "title": "Motion Studio \u00b7 Choose sample text",
+      "alt": "Actual VersePoint Text preview dropdown showing Off, Song lyrics, and Bible verse choices over the Fluid Terrain workspace.",
+      "hotspots": [
+        {
+          "label": "Explore Scripture",
+          "rect": [
+            0.008333,
+            0.93894,
+            0.050694,
+            0.049539
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Explore Songs",
+          "rect": [
+            0.0625,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "lyrics-1"
+        },
+        {
+          "label": "Explore Programs",
+          "rect": [
+            0.118056,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "program"
+        },
+        {
+          "label": "Motion Studio",
+          "rect": [
+            0.875,
+            0.139401,
+            0.114583,
+            0.041475
+          ],
+          "target": "motion-fluid"
+        },
+        {
+          "label": "Return to Media",
+          "rect": [
+            0.763889,
+            0.099078,
+            0.109722,
+            0.037442
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Keep sample text off",
+          "rect": [
+            0.833333,
+            0.550691,
+            0.134028,
+            0.025346
+          ],
+          "target": "motion-fluid"
+        },
+        {
+          "label": "Show Bible verse sample",
+          "rect": [
+            0.833333,
+            0.605991,
+            0.134028,
+            0.025346
+          ],
+          "target": "motion-fluid-text"
+        },
+        {
+          "label": "Close sample text menu",
+          "rect": [
+            0.970833,
+            0.550691,
+            0.008333,
+            0.041475
+          ],
+          "target": "motion-fluid"
+        }
+      ],
+      "focusRect": [
+        0.75,
+        0.1,
+        0.25,
+        0.61
+      ]
+    },
+    "style-presets": {
+      "image": "assets/style-presets.webp",
+      "title": "Style \u00b7 Presets",
+      "alt": "Actual VersePoint Style presentation panel showing Presets. The captured panel is displayed beside the current workspace.",
+      "contextual": true,
+      "overlay": {
+        "src": "assets/style-presets-overlay.webp",
+        "rect": [
+          0.75,
+          0.0,
+          0.25,
+          1.0
+        ]
+      },
+      "inheritHotspots": true,
+      "dim": false,
+      "hotspots": [
+        {
+          "label": "Return to Backgrounds",
+          "rect": [
+            0.759028,
+            0.051267,
+            0.077778,
+            0.038018
+          ],
+          "action": "back"
+        },
+        {
+          "label": "Style Presets",
+          "rect": [
+            0.836458,
+            0.051267,
+            0.077778,
+            0.038018
+          ],
+          "target": "style-presets",
+          "remember": false
+        },
+        {
+          "label": "Collapse presentation tools",
+          "rect": [
+            0.967014,
+            0.013825,
+            0.024306,
+            0.040323
+          ],
+          "target": "tools-collapsed"
+        },
+        {
+          "label": "Open Settings",
+          "rect": [
+            0.967014,
+            0.939516,
+            0.024306,
+            0.047811
+          ],
+          "target": "settings-output"
+        },
+        {
+          "label": "Browse Presets",
+          "rect": [
+            0.7625,
+            0.173387,
+            0.107639,
+            0.036866
+          ],
+          "target": "style-presets",
+          "remember": false
+        },
+        {
+          "label": "Browse Lower Third",
+          "rect": [
+            0.873611,
+            0.173387,
+            0.107639,
+            0.036866
+          ],
+          "target": "style-lower-third",
+          "remember": false
+        },
+        {
+          "label": "Browse Typography",
+          "rect": [
+            0.7625,
+            0.21659,
+            0.107639,
+            0.036866
+          ],
+          "target": "style-typography",
+          "remember": false
+        },
+        {
+          "label": "Browse Composition",
+          "rect": [
+            0.873611,
+            0.21659,
+            0.107639,
+            0.036866
+          ],
+          "target": "style-composition",
+          "remember": false
+        },
+        {
+          "label": "Browse Effects",
+          "rect": [
+            0.7625,
+            0.259217,
+            0.107639,
+            0.036866
+          ],
+          "target": "style-effects",
+          "remember": false
+        }
+      ],
+      "focusRect": [
+        0.75,
+        0.04,
+        0.25,
+        0.88
+      ]
+    },
+    "style-lower-third": {
+      "image": "assets/style-lower-third.webp",
+      "title": "Style \u00b7 Lower Third",
+      "alt": "Actual VersePoint Style presentation panel showing Lower Third. The captured panel is displayed beside the current workspace.",
+      "contextual": true,
+      "overlay": {
+        "src": "assets/style-lower-third-overlay.webp",
+        "rect": [
+          0.75,
+          0.0,
+          0.25,
+          1.0
+        ]
+      },
+      "inheritHotspots": true,
+      "dim": false,
+      "hotspots": [
+        {
+          "label": "Return to Backgrounds",
+          "rect": [
+            0.759028,
+            0.051267,
+            0.077778,
+            0.038018
+          ],
+          "action": "back"
+        },
+        {
+          "label": "Style Presets",
+          "rect": [
+            0.836458,
+            0.051267,
+            0.077778,
+            0.038018
+          ],
+          "target": "style-presets",
+          "remember": false
+        },
+        {
+          "label": "Collapse presentation tools",
+          "rect": [
+            0.967014,
+            0.013825,
+            0.024306,
+            0.040323
+          ],
+          "target": "tools-collapsed"
+        },
+        {
+          "label": "Open Settings",
+          "rect": [
+            0.967014,
+            0.939516,
+            0.024306,
+            0.047811
+          ],
+          "target": "settings-output"
+        },
+        {
+          "label": "Browse Presets",
+          "rect": [
+            0.7625,
+            0.173387,
+            0.107639,
+            0.036866
+          ],
+          "target": "style-presets",
+          "remember": false
+        },
+        {
+          "label": "Browse Lower Third",
+          "rect": [
+            0.873611,
+            0.173387,
+            0.107639,
+            0.036866
+          ],
+          "target": "style-lower-third",
+          "remember": false
+        },
+        {
+          "label": "Browse Typography",
+          "rect": [
+            0.7625,
+            0.21659,
+            0.107639,
+            0.036866
+          ],
+          "target": "style-typography",
+          "remember": false
+        },
+        {
+          "label": "Browse Composition",
+          "rect": [
+            0.873611,
+            0.21659,
+            0.107639,
+            0.036866
+          ],
+          "target": "style-composition",
+          "remember": false
+        },
+        {
+          "label": "Browse Effects",
+          "rect": [
+            0.7625,
+            0.259217,
+            0.107639,
+            0.036866
+          ],
+          "target": "style-effects",
+          "remember": false
+        }
+      ],
+      "focusRect": [
+        0.75,
+        0.04,
+        0.25,
+        0.88
+      ]
+    },
+    "style-typography": {
+      "image": "assets/style-typography.webp",
+      "title": "Style \u00b7 Typography",
+      "alt": "Actual VersePoint Style presentation panel showing Typography. The captured panel is displayed beside the current workspace.",
+      "contextual": true,
+      "overlay": {
+        "src": "assets/style-typography-overlay.webp",
+        "rect": [
+          0.75,
+          0.0,
+          0.25,
+          1.0
+        ]
+      },
+      "inheritHotspots": true,
+      "dim": false,
+      "hotspots": [
+        {
+          "label": "Return to Backgrounds",
+          "rect": [
+            0.759028,
+            0.051267,
+            0.077778,
+            0.038018
+          ],
+          "action": "back"
+        },
+        {
+          "label": "Style Presets",
+          "rect": [
+            0.836458,
+            0.051267,
+            0.077778,
+            0.038018
+          ],
+          "target": "style-presets",
+          "remember": false
+        },
+        {
+          "label": "Collapse presentation tools",
+          "rect": [
+            0.967014,
+            0.013825,
+            0.024306,
+            0.040323
+          ],
+          "target": "tools-collapsed"
+        },
+        {
+          "label": "Open Settings",
+          "rect": [
+            0.967014,
+            0.939516,
+            0.024306,
+            0.047811
+          ],
+          "target": "settings-output"
+        },
+        {
+          "label": "Browse Presets",
+          "rect": [
+            0.7625,
+            0.173387,
+            0.107639,
+            0.036866
+          ],
+          "target": "style-presets",
+          "remember": false
+        },
+        {
+          "label": "Browse Lower Third",
+          "rect": [
+            0.873611,
+            0.173387,
+            0.107639,
+            0.036866
+          ],
+          "target": "style-lower-third",
+          "remember": false
+        },
+        {
+          "label": "Browse Typography",
+          "rect": [
+            0.7625,
+            0.21659,
+            0.107639,
+            0.036866
+          ],
+          "target": "style-typography",
+          "remember": false
+        },
+        {
+          "label": "Browse Composition",
+          "rect": [
+            0.873611,
+            0.21659,
+            0.107639,
+            0.036866
+          ],
+          "target": "style-composition",
+          "remember": false
+        },
+        {
+          "label": "Browse Effects",
+          "rect": [
+            0.7625,
+            0.259217,
+            0.107639,
+            0.036866
+          ],
+          "target": "style-effects",
+          "remember": false
+        }
+      ],
+      "focusRect": [
+        0.75,
+        0.04,
+        0.25,
+        0.88
+      ]
+    },
+    "style-composition": {
+      "image": "assets/style-composition.webp",
+      "title": "Style \u00b7 Composition",
+      "alt": "Actual VersePoint Style presentation panel showing Composition. The captured panel is displayed beside the current workspace.",
+      "contextual": true,
+      "overlay": {
+        "src": "assets/style-composition-overlay.webp",
+        "rect": [
+          0.75,
+          0.0,
+          0.25,
+          1.0
+        ]
+      },
+      "inheritHotspots": true,
+      "dim": false,
+      "hotspots": [
+        {
+          "label": "Return to Backgrounds",
+          "rect": [
+            0.759028,
+            0.051267,
+            0.077778,
+            0.038018
+          ],
+          "action": "back"
+        },
+        {
+          "label": "Style Presets",
+          "rect": [
+            0.836458,
+            0.051267,
+            0.077778,
+            0.038018
+          ],
+          "target": "style-presets",
+          "remember": false
+        },
+        {
+          "label": "Collapse presentation tools",
+          "rect": [
+            0.967014,
+            0.013825,
+            0.024306,
+            0.040323
+          ],
+          "target": "tools-collapsed"
+        },
+        {
+          "label": "Open Settings",
+          "rect": [
+            0.967014,
+            0.939516,
+            0.024306,
+            0.047811
+          ],
+          "target": "settings-output"
+        },
+        {
+          "label": "Browse Presets",
+          "rect": [
+            0.7625,
+            0.173387,
+            0.107639,
+            0.036866
+          ],
+          "target": "style-presets",
+          "remember": false
+        },
+        {
+          "label": "Browse Lower Third",
+          "rect": [
+            0.873611,
+            0.173387,
+            0.107639,
+            0.036866
+          ],
+          "target": "style-lower-third",
+          "remember": false
+        },
+        {
+          "label": "Browse Typography",
+          "rect": [
+            0.7625,
+            0.21659,
+            0.107639,
+            0.036866
+          ],
+          "target": "style-typography",
+          "remember": false
+        },
+        {
+          "label": "Browse Composition",
+          "rect": [
+            0.873611,
+            0.21659,
+            0.107639,
+            0.036866
+          ],
+          "target": "style-composition",
+          "remember": false
+        },
+        {
+          "label": "Browse Effects",
+          "rect": [
+            0.7625,
+            0.259217,
+            0.107639,
+            0.036866
+          ],
+          "target": "style-effects",
+          "remember": false
+        }
+      ],
+      "focusRect": [
+        0.75,
+        0.04,
+        0.25,
+        0.88
+      ]
+    },
+    "style-effects": {
+      "image": "assets/style-effects.webp",
+      "title": "Style \u00b7 Effects",
+      "alt": "Actual VersePoint Style presentation panel showing Effects. The captured panel is displayed beside the current workspace.",
+      "contextual": true,
+      "overlay": {
+        "src": "assets/style-effects-overlay.webp",
+        "rect": [
+          0.75,
+          0.0,
+          0.25,
+          1.0
+        ]
+      },
+      "inheritHotspots": true,
+      "dim": false,
+      "hotspots": [
+        {
+          "label": "Return to Backgrounds",
+          "rect": [
+            0.759028,
+            0.051267,
+            0.077778,
+            0.038018
+          ],
+          "action": "back"
+        },
+        {
+          "label": "Style Presets",
+          "rect": [
+            0.836458,
+            0.051267,
+            0.077778,
+            0.038018
+          ],
+          "target": "style-presets",
+          "remember": false
+        },
+        {
+          "label": "Collapse presentation tools",
+          "rect": [
+            0.967014,
+            0.013825,
+            0.024306,
+            0.040323
+          ],
+          "target": "tools-collapsed"
+        },
+        {
+          "label": "Open Settings",
+          "rect": [
+            0.967014,
+            0.939516,
+            0.024306,
+            0.047811
+          ],
+          "target": "settings-output"
+        },
+        {
+          "label": "Browse Presets",
+          "rect": [
+            0.7625,
+            0.173387,
+            0.107639,
+            0.036866
+          ],
+          "target": "style-presets",
+          "remember": false
+        },
+        {
+          "label": "Browse Lower Third",
+          "rect": [
+            0.873611,
+            0.173387,
+            0.107639,
+            0.036866
+          ],
+          "target": "style-lower-third",
+          "remember": false
+        },
+        {
+          "label": "Browse Typography",
+          "rect": [
+            0.7625,
+            0.21659,
+            0.107639,
+            0.036866
+          ],
+          "target": "style-typography",
+          "remember": false
+        },
+        {
+          "label": "Browse Composition",
+          "rect": [
+            0.873611,
+            0.21659,
+            0.107639,
+            0.036866
+          ],
+          "target": "style-composition",
+          "remember": false
+        },
+        {
+          "label": "Browse Effects",
+          "rect": [
+            0.7625,
+            0.259217,
+            0.107639,
+            0.036866
+          ],
+          "target": "style-effects",
+          "remember": false
+        }
+      ],
+      "focusRect": [
+        0.75,
+        0.04,
+        0.25,
+        0.88
+      ]
+    },
+    "settings-closed": {
+      "image": "assets/settings-closed.webp",
+      "title": "Settings \u00b7 Sections",
+      "alt": "Actual VersePoint Settings popover with all sections collapsed.",
+      "contextual": true,
+      "overlay": {
+        "src": "assets/settings-closed-overlay.webp",
+        "rect": [
+          0.5333333333333333,
+          0.6180875576036866,
+          0.20833333333333334,
+          0.3680875576036866
+        ]
+      },
+      "inheritHotspots": false,
+      "dim": false,
+      "dismissOutside": true,
+      "hotspots": [
+        {
+          "label": "Explore Output",
+          "rect": [
+            0.541667,
+            0.637097,
+            0.191667,
+            0.043779
+          ],
+          "target": "settings-output",
+          "remember": false
+        },
+        {
+          "label": "Explore Mobile Requests",
+          "rect": [
+            0.541667,
+            0.68894,
+            0.191667,
+            0.043779
+          ],
+          "target": "settings-mobile",
+          "remember": false
+        },
+        {
+          "label": "Explore Appearance",
+          "rect": [
+            0.541667,
+            0.740783,
+            0.191667,
+            0.043779
+          ],
+          "target": "settings-appearance",
+          "remember": false
+        },
+        {
+          "label": "Explore Operator Hints",
+          "rect": [
+            0.541667,
+            0.792627,
+            0.191667,
+            0.043779
+          ],
+          "target": "settings-hints",
+          "remember": false
+        },
+        {
+          "label": "Explore Save & Load",
+          "rect": [
+            0.541667,
+            0.84447,
+            0.191667,
+            0.043779
+          ],
+          "target": "settings-save-load",
+          "remember": false
+        },
+        {
+          "label": "Explore Storage & Maintenance",
+          "rect": [
+            0.541667,
+            0.896313,
+            0.191667,
+            0.043779
+          ],
+          "target": "settings-storage",
+          "remember": false
+        },
+        {
+          "label": "Close Settings",
+          "rect": [
+            0.967014,
+            0.939516,
+            0.024306,
+            0.047811
+          ],
+          "action": "back"
+        }
+      ],
+      "focusRect": [
+        0.5333333333333333,
+        0.6180875576036866,
+        0.20833333333333334,
+        0.3680875576036866
+      ]
+    },
+    "settings-output": {
+      "image": "assets/settings-output.webp",
+      "title": "Settings \u00b7 Output",
+      "alt": "Actual VersePoint Settings popover with Output expanded. Other sections remain available.",
+      "contextual": true,
+      "overlay": {
+        "src": "assets/settings-output-overlay.webp",
+        "rect": [
+          0.5333333333333333,
+          0.42569124423963134,
+          0.20833333333333334,
+          0.5604838709677419
+        ]
+      },
+      "inheritHotspots": false,
+      "dim": false,
+      "dismissOutside": true,
+      "hotspots": [
+        {
+          "label": "Collapse Output",
+          "rect": [
+            0.541667,
+            0.4447,
+            0.191667,
+            0.043779
+          ],
+          "target": "settings-closed",
+          "remember": false
+        },
+        {
+          "label": "Explore Mobile Requests",
+          "rect": [
+            0.541667,
+            0.68894,
+            0.191667,
+            0.043779
+          ],
+          "target": "settings-mobile",
+          "remember": false
+        },
+        {
+          "label": "Explore Appearance",
+          "rect": [
+            0.541667,
+            0.740783,
+            0.191667,
+            0.043779
+          ],
+          "target": "settings-appearance",
+          "remember": false
+        },
+        {
+          "label": "Explore Operator Hints",
+          "rect": [
+            0.541667,
+            0.792627,
+            0.191667,
+            0.043779
+          ],
+          "target": "settings-hints",
+          "remember": false
+        },
+        {
+          "label": "Explore Save & Load",
+          "rect": [
+            0.541667,
+            0.84447,
+            0.191667,
+            0.043779
+          ],
+          "target": "settings-save-load",
+          "remember": false
+        },
+        {
+          "label": "Explore Storage & Maintenance",
+          "rect": [
+            0.541667,
+            0.896313,
+            0.191667,
+            0.043779
+          ],
+          "target": "settings-storage",
+          "remember": false
+        },
+        {
+          "label": "Close Settings",
+          "rect": [
+            0.967014,
+            0.939516,
+            0.024306,
+            0.047811
+          ],
+          "action": "back"
+        }
+      ],
+      "focusRect": [
+        0.5333333333333333,
+        0.42569124423963134,
+        0.20833333333333334,
+        0.5604838709677419
+      ]
+    },
+    "settings-mobile": {
+      "image": "assets/settings-mobile.webp",
+      "title": "Settings \u00b7 Mobile Requests",
+      "alt": "Actual VersePoint Settings popover with Mobile Requests expanded. Other sections remain available.",
+      "contextual": true,
+      "overlay": {
+        "src": "assets/settings-mobile-overlay.webp",
+        "rect": [
+          0.5333333333333333,
+          0.4596774193548387,
+          0.20833333333333334,
+          0.5264976958525346
+        ]
+      },
+      "inheritHotspots": false,
+      "dim": false,
+      "dismissOutside": true,
+      "hotspots": [
+        {
+          "label": "Explore Output",
+          "rect": [
+            0.541667,
+            0.478687,
+            0.191667,
+            0.043779
+          ],
+          "target": "settings-output",
+          "remember": false
+        },
+        {
+          "label": "Collapse Mobile Requests",
+          "rect": [
+            0.541667,
+            0.53053,
+            0.191667,
+            0.043779
+          ],
+          "target": "settings-closed",
+          "remember": false
+        },
+        {
+          "label": "Explore Appearance",
+          "rect": [
+            0.541667,
+            0.740207,
+            0.191667,
+            0.043779
+          ],
+          "target": "settings-appearance",
+          "remember": false
+        },
+        {
+          "label": "Explore Operator Hints",
+          "rect": [
+            0.541667,
+            0.792051,
+            0.191667,
+            0.043779
+          ],
+          "target": "settings-hints",
+          "remember": false
+        },
+        {
+          "label": "Explore Save & Load",
+          "rect": [
+            0.541667,
+            0.843894,
+            0.191667,
+            0.043779
+          ],
+          "target": "settings-save-load",
+          "remember": false
+        },
+        {
+          "label": "Explore Storage & Maintenance",
+          "rect": [
+            0.541667,
+            0.895737,
+            0.191667,
+            0.043779
+          ],
+          "target": "settings-storage",
+          "remember": false
+        },
+        {
+          "label": "Close Settings",
+          "rect": [
+            0.967014,
+            0.939516,
+            0.024306,
+            0.047811
+          ],
+          "action": "back"
+        }
+      ],
+      "focusRect": [
+        0.5333333333333333,
+        0.4596774193548387,
+        0.20833333333333334,
+        0.5264976958525346
+      ]
+    },
+    "settings-appearance": {
+      "image": "assets/settings-appearance.webp",
+      "title": "Settings \u00b7 Appearance",
+      "alt": "Actual VersePoint Settings popover with Appearance expanded. Other sections remain available.",
+      "contextual": true,
+      "overlay": {
+        "src": "assets/settings-appearance-overlay.webp",
+        "rect": [
+          0.5333333333333333,
+          0.39055299539170507,
+          0.20833333333333334,
+          0.5956221198156681
+        ]
+      },
+      "inheritHotspots": false,
+      "dim": false,
+      "dismissOutside": true,
+      "hotspots": [
+        {
+          "label": "Explore Output",
+          "rect": [
+            0.541667,
+            0.409562,
+            0.191667,
+            0.043779
+          ],
+          "target": "settings-output",
+          "remember": false
+        },
+        {
+          "label": "Explore Mobile Requests",
+          "rect": [
+            0.541667,
+            0.461406,
+            0.191667,
+            0.043779
+          ],
+          "target": "settings-mobile",
+          "remember": false
+        },
+        {
+          "label": "Collapse Appearance",
+          "rect": [
+            0.541667,
+            0.513249,
+            0.191667,
+            0.043779
+          ],
+          "target": "settings-closed",
+          "remember": false
+        },
+        {
+          "label": "Explore Operator Hints",
+          "rect": [
+            0.541667,
+            0.792051,
+            0.191667,
+            0.043779
+          ],
+          "target": "settings-hints",
+          "remember": false
+        },
+        {
+          "label": "Explore Save & Load",
+          "rect": [
+            0.541667,
+            0.843894,
+            0.191667,
+            0.043779
+          ],
+          "target": "settings-save-load",
+          "remember": false
+        },
+        {
+          "label": "Explore Storage & Maintenance",
+          "rect": [
+            0.541667,
+            0.895737,
+            0.191667,
+            0.043779
+          ],
+          "target": "settings-storage",
+          "remember": false
+        },
+        {
+          "label": "Close Settings",
+          "rect": [
+            0.967014,
+            0.939516,
+            0.024306,
+            0.047811
+          ],
+          "action": "back"
+        }
+      ],
+      "focusRect": [
+        0.5333333333333333,
+        0.39055299539170507,
+        0.20833333333333334,
+        0.5956221198156681
+      ]
+    },
+    "settings-hints": {
+      "image": "assets/settings-hints.webp",
+      "title": "Settings \u00b7 Operator Hints",
+      "alt": "Actual VersePoint Settings popover with Operator Hints expanded. Other sections remain available.",
+      "contextual": true,
+      "overlay": {
+        "src": "assets/settings-hints-overlay.webp",
+        "rect": [
+          0.5333333333333333,
+          0.37327188940092165,
+          0.20833333333333334,
+          0.6129032258064516
+        ]
+      },
+      "inheritHotspots": false,
+      "dim": false,
+      "dismissOutside": true,
+      "hotspots": [
+        {
+          "label": "Explore Output",
+          "rect": [
+            0.541667,
+            0.392281,
+            0.191667,
+            0.043779
+          ],
+          "target": "settings-output",
+          "remember": false
+        },
+        {
+          "label": "Explore Mobile Requests",
+          "rect": [
+            0.541667,
+            0.444124,
+            0.191667,
+            0.043779
+          ],
+          "target": "settings-mobile",
+          "remember": false
+        },
+        {
+          "label": "Explore Appearance",
+          "rect": [
+            0.541667,
+            0.495968,
+            0.191667,
+            0.043779
+          ],
+          "target": "settings-appearance",
+          "remember": false
+        },
+        {
+          "label": "Collapse Operator Hints",
+          "rect": [
+            0.541667,
+            0.547811,
+            0.191667,
+            0.043779
+          ],
+          "target": "settings-closed",
+          "remember": false
+        },
+        {
+          "label": "Explore Save & Load",
+          "rect": [
+            0.541667,
+            0.843894,
+            0.191667,
+            0.043779
+          ],
+          "target": "settings-save-load",
+          "remember": false
+        },
+        {
+          "label": "Explore Storage & Maintenance",
+          "rect": [
+            0.541667,
+            0.895737,
+            0.191667,
+            0.043779
+          ],
+          "target": "settings-storage",
+          "remember": false
+        },
+        {
+          "label": "Close Settings",
+          "rect": [
+            0.967014,
+            0.939516,
+            0.024306,
+            0.047811
+          ],
+          "action": "back"
+        }
+      ],
+      "focusRect": [
+        0.5333333333333333,
+        0.37327188940092165,
+        0.20833333333333334,
+        0.6129032258064516
+      ]
+    },
+    "settings-save-load": {
+      "image": "assets/settings-save-load.webp",
+      "title": "Settings \u00b7 Save & Load",
+      "alt": "Actual VersePoint Settings popover with Save & Load expanded. Other sections remain available.",
+      "contextual": true,
+      "overlay": {
+        "src": "assets/settings-save-load-overlay.webp",
+        "rect": [
+          0.5333333333333333,
+          0.5305299539170507,
+          0.20833333333333334,
+          0.45564516129032256
+        ]
+      },
+      "inheritHotspots": false,
+      "dim": false,
+      "dismissOutside": true,
+      "hotspots": [
+        {
+          "label": "Explore Output",
+          "rect": [
+            0.541667,
+            0.549539,
+            0.191667,
+            0.043779
+          ],
+          "target": "settings-output",
+          "remember": false
+        },
+        {
+          "label": "Explore Mobile Requests",
+          "rect": [
+            0.541667,
+            0.601382,
+            0.191667,
+            0.043779
+          ],
+          "target": "settings-mobile",
+          "remember": false
+        },
+        {
+          "label": "Explore Appearance",
+          "rect": [
+            0.541667,
+            0.653226,
+            0.191667,
+            0.043779
+          ],
+          "target": "settings-appearance",
+          "remember": false
+        },
+        {
+          "label": "Explore Operator Hints",
+          "rect": [
+            0.541667,
+            0.705069,
+            0.191667,
+            0.043779
+          ],
+          "target": "settings-hints",
+          "remember": false
+        },
+        {
+          "label": "Collapse Save & Load",
+          "rect": [
+            0.541667,
+            0.756912,
+            0.191667,
+            0.043779
+          ],
+          "target": "settings-closed",
+          "remember": false
+        },
+        {
+          "label": "Explore Storage & Maintenance",
+          "rect": [
+            0.541667,
+            0.896313,
+            0.191667,
+            0.043779
+          ],
+          "target": "settings-storage",
+          "remember": false
+        },
+        {
+          "label": "Close Settings",
+          "rect": [
+            0.967014,
+            0.939516,
+            0.024306,
+            0.047811
+          ],
+          "action": "back"
+        }
+      ],
+      "focusRect": [
+        0.5333333333333333,
+        0.5305299539170507,
+        0.20833333333333334,
+        0.45564516129032256
+      ]
+    },
+    "settings-storage": {
+      "image": "assets/settings-storage.webp",
+      "title": "Settings \u00b7 Storage & Maintenance",
+      "alt": "Actual VersePoint Settings popover with Storage & Maintenance expanded. Other sections remain available.",
+      "contextual": true,
+      "overlay": {
+        "src": "assets/settings-storage-overlay.webp",
+        "rect": [
+          0.5333333333333333,
+          0.3254608294930876,
+          0.20833333333333334,
+          0.6607142857142857
+        ]
+      },
+      "inheritHotspots": false,
+      "dim": false,
+      "dismissOutside": true,
+      "hotspots": [
+        {
+          "label": "Explore Output",
+          "rect": [
+            0.541667,
+            0.34447,
+            0.191667,
+            0.043779
+          ],
+          "target": "settings-output",
+          "remember": false
+        },
+        {
+          "label": "Explore Mobile Requests",
+          "rect": [
+            0.541667,
+            0.396313,
+            0.191667,
+            0.043779
+          ],
+          "target": "settings-mobile",
+          "remember": false
+        },
+        {
+          "label": "Explore Appearance",
+          "rect": [
+            0.541667,
+            0.448157,
+            0.191667,
+            0.043779
+          ],
+          "target": "settings-appearance",
+          "remember": false
+        },
+        {
+          "label": "Explore Operator Hints",
+          "rect": [
+            0.541667,
+            0.5,
+            0.191667,
+            0.043779
+          ],
+          "target": "settings-hints",
+          "remember": false
+        },
+        {
+          "label": "Explore Save & Load",
+          "rect": [
+            0.541667,
+            0.551843,
+            0.191667,
+            0.043779
+          ],
+          "target": "settings-save-load",
+          "remember": false
+        },
+        {
+          "label": "Collapse Storage & Maintenance",
+          "rect": [
+            0.541667,
+            0.603687,
+            0.191667,
+            0.043779
+          ],
+          "target": "settings-closed",
+          "remember": false
+        },
+        {
+          "label": "Close Settings",
+          "rect": [
+            0.967014,
+            0.939516,
+            0.024306,
+            0.047811
+          ],
+          "action": "back"
+        }
+      ],
+      "focusRect": [
+        0.5333333333333333,
+        0.3254608294930876,
+        0.20833333333333334,
+        0.6607142857142857
+      ]
+    },
+    "tools-collapsed": {
+      "image": "assets/tools-collapsed.webp",
+      "title": "Presentation tools \u00b7 Collapsed",
+      "alt": "Actual VersePoint interface with the presentation tools collapsed into a narrow rail, giving more room to the Scripture workspace.",
+      "hotspots": [
+        {
+          "label": "Explore Scripture",
+          "rect": [
+            0.008333,
+            0.93894,
+            0.050694,
+            0.049539
+          ],
+          "target": "scripture-1"
+        },
+        {
+          "label": "Explore Songs",
+          "rect": [
+            0.0625,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "lyrics-1"
+        },
+        {
+          "label": "Explore Programs",
+          "rect": [
+            0.118056,
+            0.93894,
+            0.054861,
+            0.049539
+          ],
+          "target": "program"
+        },
+        {
+          "label": "Expand presentation tools",
+          "rect": [
+            0.967014,
+            0.013825,
+            0.026389,
+            0.041475
+          ],
+          "action": "back"
+        },
+        {
+          "label": "Open Backgrounds",
+          "rect": [
+            0.967014,
+            0.056452,
+            0.026389,
+            0.044355
+          ],
+          "action": "back"
+        },
+        {
+          "label": "Open Style",
+          "rect": [
+            0.967014,
+            0.105991,
+            0.026389,
+            0.044355
+          ],
+          "target": "style-presets"
+        },
+        {
+          "label": "Open Motion",
+          "rect": [
+            0.967014,
+            0.22235,
+            0.026389,
+            0.044931
+          ],
+          "target": "motion-dots"
+        },
+        {
+          "label": "Open Style Presets",
+          "rect": [
+            0.967014,
+            0.273041,
+            0.026389,
+            0.044931
+          ],
+          "target": "style-presets"
+        },
+        {
+          "label": "Open Lower Third",
+          "rect": [
+            0.967014,
+            0.323733,
+            0.026389,
+            0.044931
+          ],
+          "target": "style-lower-third"
+        },
+        {
+          "label": "Open Settings",
+          "rect": [
+            0.967014,
+            0.939516,
+            0.024306,
+            0.047811
+          ],
+          "target": "settings-output"
+        }
+      ]
+    }
+  },
+  "prototype": {
+    "captureMethod": "Actual VersePoint application screenshots and recorded preview frames",
+    "features": [
+      "Scripture",
+      "Songs",
+      "Programs",
+      "Motion Studio",
+      "Presentation tools",
+      "Style",
+      "Settings"
+    ],
+    "liveOutputsConnected": false
+  }
+}

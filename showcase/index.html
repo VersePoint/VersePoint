@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="dark" />
+    <title>Explore VersePoint</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script src="demo.js" defer></script>
+  </head>
+  <body>
+    <main aria-label="Explore the VersePoint application">
+      <div class="stage-scroll" id="stage-scroll">
+        <div class="camera-viewport" id="camera-viewport">
+          <div class="application-stage is-loading" id="application-stage" aria-busy="true">
+            <img id="application-image" class="application-image" alt="" draggable="false" hidden />
+            <img id="application-animation" class="application-animation" alt="" draggable="false" hidden aria-hidden="true" />
+            <video id="application-video" class="application-video" muted playsinline preload="none" hidden aria-hidden="true"></video>
+            <div id="application-dimmer" class="application-dimmer" hidden aria-hidden="true"></div>
+            <div id="application-underlays" class="application-underlays" aria-hidden="true"></div>
+            <img id="application-overlay" class="application-overlay" alt="" draggable="false" hidden aria-hidden="true" />
+            <div id="hotspot-layer" class="hotspot-layer" aria-label="Available application controls"></div>
+            <div class="stage-message" id="stage-message" role="status">Loading VersePoint…</div>
+          </div>
+        </div>
+      </div>
+      <span class="sr-only" id="state-description" aria-live="polite" aria-atomic="true">VersePoint</span>
+      <p class="sr-only" id="interaction-message" role="status" aria-live="polite" aria-atomic="true"></p>
+    </main>
+  </body>
+</html>

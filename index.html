@@ -1,103 +1,144 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>VersePoint — Scripture in Focus</title>
-<link rel="icon" type="image/png" href="versepoint-logo.png">
-<link rel="stylesheet" href="style.css">
-</head>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="light dark" />
+    <title>VersePoint — Bring the service into focus.</title>
+    <meta name="description" content="Scripture, songs, service programs and motion backgrounds together in one workspace. Explore VersePoint and download the desktop app for Windows or macOS." />
+    <link rel="canonical" href="https://versepoint.github.io/VersePoint/" />
+    <link rel="icon" type="image/png" href="assets/versepoint-logo.png" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="VersePoint — Bring the service into focus." />
+    <meta property="og:description" content="Scripture, songs, service programs and motion backgrounds together in one workspace. Free for churches." />
+    <meta property="og:url" content="https://versepoint.github.io/VersePoint/" />
+    <meta property="og:image" content="https://versepoint.github.io/VersePoint/assets/versepoint-logo.png" />
+    <meta property="og:image:alt" content="VersePoint logo" />
+    <meta name="twitter:card" content="summary" />
+    <link rel="stylesheet" href="style.css?v=minimal-1" />
+    <script src="site.js" defer></script>
+  </head>
+  <body>
+    <a class="vp-skip-link" href="#main">Skip to content</a>
+    <header class="vp-header">
+      <div class="vp-header-inner">
+        <a class="vp-wordmark" href="#" aria-label="VersePoint home">
+          <img src="assets/versepoint-logo.png" alt="" width="30" height="30" />
+          <span>VersePoint<span class="vp-brand-dot" aria-hidden="true">.</span></span>
+        </a>
+        <nav class="vp-navigation" aria-label="Main navigation">
+          <a href="#features">Features</a>
+          <a class="vp-nav-guides" href="#guides">Guides</a>
+        </nav>
+      </div>
+    </header>
 
-<body>
-
-<header class="hero">
-    <img src="versepoint-logo.png" alt="VersePoint Logo" class="logo">
-    <h1>VersePoint</h1>
-    <p class="tagline">Download VersePoint v1.1.0 Beta for Windows and macOS. Preview the latest Scripture, Lyrics, Program, and Web Out features while we continue testing and improving stability.</p>
-<div class="download-section">
-
-    <a href="https://github.com/VersePoint/VersePoint/releases/download/v1.1.0/VersePoint-Setup-Windows-1.1.0.zip" class="download-card" id="windows-download">
-        <div class="text-block">
-            <div class="title">Windows</div>
-            <div class="meta" id="windows-meta">v1.1.0 Beta • 64-bit</div>
+    <main id="main">
+      <section class="vp-hero" aria-labelledby="hero-heading">
+        <p class="vp-eyebrow">Church presentation software</p>
+        <h1 id="hero-heading">Bring the service into focus.</h1>
+        <p class="vp-hero-copy">Scripture, songs and service plans.</p>
+        <div class="vp-hero-actions">
+          <a class="vp-primary-action" href="#download">Download VersePoint</a>
+          <a class="vp-secondary-action" href="#showcase">Explore <span aria-hidden="true">↓</span></a>
         </div>
-        <div class="badge">Beta</div>
-    </a>
-
-    <a href="https://github.com/VersePoint/VersePoint/releases/download/v1.1.0/VersePoint-macOS-universal-1.1.0.zip" class="download-card" id="macos-download">
-        <div class="text-block">
-            <div class="title">macOS</div>
-            <div class="meta" id="macos-meta">v1.1.0 Beta • Universal</div>
+        <div class="vp-scene-links" aria-label="Explore VersePoint features">
+          <a href="#showcase" data-scene="scripture-1">Scripture</a>
+          <a href="#showcase" data-scene="lyrics-1">Songs</a>
+          <a href="#showcase" data-scene="program">Programs</a>
+          <a href="#showcase" data-scene="motion-dots">Motion</a>
+          <a href="#showcase" data-scene="style-presets">Style</a>
         </div>
-        <div class="badge">Beta</div>
-    </a>
+      </section>
 
-</div>
+      <section class="vp-showcase" id="showcase" aria-label="VersePoint application showcase">
+        <p class="vp-sr-only" id="showcase-scope">Interactive app captures. Editing and live output require the desktop app.</p>
+        <div class="vp-showcase-window">
+          <iframe id="showcase-frame" class="vp-showcase-frame" src="showcase/index.html" title="Explore the VersePoint application" aria-describedby="showcase-scope" loading="lazy" allow="fullscreen"></iframe>
+          <img id="showcase-poster" class="vp-showcase-poster" src="showcase/assets/scripture-1.webp" alt="Actual VersePoint Scripture workspace showing Psalms 23, a presentation preview and presentation tools." width="1920" height="1157" fetchpriority="high" />
+          <a class="vp-showcase-fallback-link" href="showcase/index.html" aria-label="Open the VersePoint application preview"><span>Open preview <span aria-hidden="true">↗</span></span></a>
+        </div>
+        <noscript><p class="vp-fallback-note">Enable JavaScript to explore.</p></noscript>
+      </section>
 
-</header>
+      <section class="vp-features vp-container" id="features" aria-label="VersePoint features">
+        <article class="vp-feature-row">
+          <div class="vp-feature-copy">
+            <h2>Programs</h2>
+            <p>Your service, in order.</p>
+            <a class="vp-text-link" href="#showcase" data-scene="program">Explore Programs <span aria-hidden="true">↗</span></a>
+          </div>
+          <div class="vp-feature-visual vp-program-visual">
+            <img src="showcase/assets/program.webp" alt="VersePoint’s Sunday Gathering program with Amazing Grace, Psalms 23:1, John 3:16 and Gathered in Your Name." width="1920" height="1157" loading="lazy" decoding="async" />
+          </div>
+        </article>
 
-<footer>
-    © 2026 VersePoint. Built to serve the Church. Released under the <a href="https://github.com/VersePoint/VersePoint/blob/main/LICENSE">VersePoint Proprietary License v1.1</a>.
-</footer>
+        <article class="vp-feature-row vp-feature-row-reverse">
+          <div class="vp-feature-copy">
+            <h2>Scripture &amp; Songs</h2>
+            <p>Choose a verse. Present a song.</p>
+            <div class="vp-feature-links">
+              <a class="vp-text-link" href="#showcase" data-scene="scripture-1">Scripture <span aria-hidden="true">↗</span></a>
+              <a class="vp-text-link" href="#showcase" data-scene="lyrics-1">Songs <span aria-hidden="true">↗</span></a>
+            </div>
+          </div>
+          <div class="vp-feature-visual vp-lyrics-visual">
+            <img src="showcase/assets/lyrics-1.webp" alt="VersePoint’s Songs workspace with Amazing Grace, its presentation preview and four song slides." width="1920" height="1157" loading="lazy" decoding="async" />
+          </div>
+        </article>
 
-<script>
-const releaseApiUrl = "https://api.github.com/repos/VersePoint/VersePoint/releases/tags/v1.1.0";
-const windowsDownloadEl = document.getElementById("windows-download");
-const macosDownloadEl = document.getElementById("macos-download");
-const windowsMetaEl = document.getElementById("windows-meta");
-const macosMetaEl = document.getElementById("macos-meta");
+        <article class="vp-feature-row">
+          <div class="vp-feature-copy">
+            <h2>Motion &amp; Style</h2>
+            <p>Set the background. Shape the text.</p>
+            <div class="vp-feature-links">
+              <a class="vp-text-link" href="#showcase" data-scene="motion-dots">Motion <span aria-hidden="true">↗</span></a>
+              <a class="vp-text-link" href="#showcase" data-scene="style-presets">Style <span aria-hidden="true">↗</span></a>
+            </div>
+          </div>
+          <div class="vp-feature-visual vp-style-visual">
+            <img src="showcase/assets/style-typography.webp" alt="VersePoint’s actual Style panel with typography, text fill, size and spacing controls beside the Scripture workspace." width="1920" height="1157" loading="lazy" decoding="async" />
+          </div>
+        </article>
+      </section>
 
-function findAsset(assets, patterns) {
-    return patterns
-        .map((pattern) => assets.find((asset) => pattern.test(asset.name)))
-        .find(Boolean);
-}
+      <section class="vp-output vp-container" aria-label="Presentation outputs">
+        <div class="vp-output-items">
+          <div><h3>Projector &amp; Web Output</h3><p>Present to a screen or browser.</p></div>
+          <div><h3>OBS &amp; streaming</h3><p>Add Web Output to your stream.</p></div>
+          <div><h3>Mobile requests</h3><p>You decide what goes live.</p></div>
+        </div>
+      </section>
 
-function updateDownloadLinks(release, assets) {
-    const windowsAsset = findAsset(assets, [
-        /^VersePoint-Setup-Windows-.*\.zip$/i,
-        /^VersePoint-Setup-Windows-x64\.exe$/i,
-        /^VersePoint-Setup-.*-x64\.exe$/i,
-        /^VersePoint-Setup-.*\.zip$/i
-    ]);
-    const macosAsset = findAsset(assets, [
-        /^VersePoint-macOS-universal-.*\.zip$/i,
-        /^VersePoint-macOS\.dmg$/i,
-        /^VersePoint-.*mac.*\.dmg$/i,
-        /^VersePoint-.*mac.*\.zip$/i
-    ]);
+      <section class="vp-download" id="download" aria-labelledby="download-heading">
+        <div class="vp-container vp-download-inner">
+          <div class="vp-download-copy">
+            <h2 id="download-heading">Get VersePoint.</h2>
+            <p>Free for churches.</p>
+          </div>
+          <div class="vp-download-options">
+            <a class="vp-download-link" id="windows-download" href="https://github.com/VersePoint/VersePoint/releases/tag/v1.1.0">
+              <span><span class="vp-download-platform">Windows</span><span class="vp-download-meta" id="windows-meta">v1.1.0 Beta · Release page</span></span>
+              <span class="vp-download-arrow" aria-hidden="true">↗</span>
+            </a>
+            <a class="vp-download-link" id="macos-download" href="https://github.com/VersePoint/VersePoint/releases/tag/v1.1.0">
+              <span><span class="vp-download-platform">macOS</span><span class="vp-download-meta" id="macos-meta">v1.1.0 Beta · Release page</span></span>
+              <span class="vp-download-arrow" aria-hidden="true">↗</span>
+            </a>
+            <p class="vp-release-note"><a href="https://github.com/VersePoint/VersePoint/releases/tag/v1.1.0">Release notes</a></p>
+            <div class="vp-install-guides" id="guides">
+              <a href="assets/guides/VersePoint-macOS-Installation-Guide.pdf">macOS guide <span>PDF</span></a>
+              <a href="assets/guides/VersePoint-Operator-Workflow.pdf">Operator guide <span>PDF</span></a>
+            </div>
+          </div>
+        </div>
+      </section>
 
-    if (windowsAsset?.browser_download_url) {
-        windowsDownloadEl.href = windowsAsset.browser_download_url;
-        windowsMetaEl.textContent = `${release.tag_name || "v1.1.0"} Beta • ${windowsAsset.name.endsWith(".zip") ? "ZIP" : "64-bit"}`;
-    }
-    if (macosAsset?.browser_download_url) {
-        macosDownloadEl.href = macosAsset.browser_download_url;
-        macosMetaEl.textContent = `${release.tag_name || "v1.1.0"} Beta • ${macosAsset.name.endsWith(".dmg") ? "DMG" : "Universal"}`;
-    }
-}
+    </main>
 
-async function loadReleaseLinks() {
-    try {
-        const response = await fetch(releaseApiUrl, {
-            headers: { Accept: "application/vnd.github+json" },
-            cache: "no-store"
-        });
-
-        if (!response.ok) {
-            throw new Error(`GitHub API returned ${response.status}`);
-        }
-
-        const release = await response.json();
-        const assets = Array.isArray(release.assets) ? release.assets : [];
-        updateDownloadLinks(release, assets);
-    } catch (error) {
-        console.error("Failed to load release download links:", error);
-    }
-}
-
-loadReleaseLinks();
-</script>
-
-</body>
+    <footer class="vp-footer vp-container">
+      <p>© 2026 VersePoint</p>
+      <nav aria-label="Footer navigation"><a href="#guides">Guides</a><a href="https://github.com/VersePoint/VersePoint/issues">Support</a><a href="https://github.com/VersePoint/VersePoint/blob/main/LICENSE">License</a></nav>
+    </footer>
+  </body>
 </html>
