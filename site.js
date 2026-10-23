@@ -71,7 +71,10 @@
       // It is never presented as ARM64 or relabeled as a verified x64 build.
       return asset.architecture === architecture || (!asset.architecture && architecture === 'x64');
     });
-    const rank = asset => (asset.architecture === architecture ? 0 : 2) + (asset.format === 'zip' ? 1 : 0);
+    // The macOS ZIP includes the DMG and both guides; make it the default download.
+    const formatRank = asset => platform === 'macos' ?
+      (asset.format === 'zip' ? 0 : 1) : (asset.format === 'zip' ? 1 : 0);
+    const rank = asset => (asset.architecture === architecture ? 0 : 2) + formatRank(asset);
     return candidates.sort((a, b) => rank(a) - rank(b) || a.name.localeCompare(b.name))[0] || null;
   }
 
@@ -84,7 +87,8 @@
       platform = asset.architecture === 'universal' ? 'Intel + Apple silicon' :
         asset.architecture === 'x64' ? 'Intel Mac' : 'Apple silicon';
     }
-    const format = asset.format.toUpperCase();
+    const format = asset.format.toUpperCase() +
+      (asset.platform === 'macos' && asset.format === 'zip' ? ' + guides' : '');
     const size = asset.size ? ` · ${Math.round(asset.size / 1_000_000)} MB` : '';
     return `${platform} · ${format}${asset.portable ? ' portable' : ''}${size}`;
   }
