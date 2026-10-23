@@ -87,8 +87,7 @@
       platform = asset.architecture === 'universal' ? 'Intel + Apple silicon' :
         asset.architecture === 'x64' ? 'Intel Mac' : 'Apple silicon';
     }
-    const format = asset.format.toUpperCase() +
-      (asset.platform === 'macos' && asset.format === 'zip' ? ' + guides' : '');
+    const format = asset.format.toUpperCase();
     const size = asset.size ? ` · ${Math.round(asset.size / 1_000_000)} MB` : '';
     return `${platform} · ${format}${asset.portable ? ' portable' : ''}${size}`;
   }
