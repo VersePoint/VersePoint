@@ -38,10 +38,6 @@ VersePoint က ကျမ်းပိုဒ်၊ သီချင်းစာသ�
 
 **[ဒီမှာ Download လုပ်ပါ](https://versepoint.github.io/VersePoint/#download)** · **[အသုံးပြုပုံ အစမ်းကြည့်ပါ](https://versepoint.github.io/VersePoint/#showcase)**
 
-## Help more churches discover VersePoint
-
-Share the [official website](https://versepoint.github.io/VersePoint/) with your church media team. [English and Burmese sharing captions and a short demo outline](SHARE.md) are ready to use. If VersePoint helps your team, a GitHub star or specific feedback is welcome.
-
 ## Support and license
 
 Report bugs and feature requests in [GitHub Issues](https://github.com/VersePoint/VersePoint/issues). Include your operating system, VersePoint version and the steps needed to reproduce the issue. Remove personal information and private service content from screenshots and logs.
